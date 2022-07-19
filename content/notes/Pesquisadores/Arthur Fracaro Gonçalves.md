@@ -18,7 +18,7 @@ Graduando em Arquitetura e Urbanismo/ Universidade Federal de Santa Catarina - U
 [arthurfracaro@hotmail.com](mailto:arthurfracaro@hotmail.com)/ (48) 99809-7368
 # Trabalhos
 TransUrbanoGramas: experiências de reconhecimento urbano no centro expandido de Florianópolis. 
-[[Produções/ebook Cidade Inacabada ANAP]]
+[[notes/Produções/Projetos de Pesquisa/ebook Cidade Inacabada ANAP]]
 
 ## Iniciação científica
 

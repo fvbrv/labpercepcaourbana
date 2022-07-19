@@ -1,10 +1,12 @@
 ---
 title: "Ourinhos história e patrimônio ferroviário e industrial"
+tag:
+- 2020
 ---
 
 #trabalhos 
 
 # Pesquisador
-- [[Pesquisadores/Lais da Silva Rodrigues]]
-- [[Pesquisadores/Mariana Mamedes dos Santos]]
-- [[Evandro Fiorin]]
+- [[notes/Pesquisadores/Lais da Silva Rodrigues]]
+- [[notes/Pesquisadores/Mariana Mamedes dos Santos]]
+- [[notes/Pesquisadores/Evandro Fiorin]]

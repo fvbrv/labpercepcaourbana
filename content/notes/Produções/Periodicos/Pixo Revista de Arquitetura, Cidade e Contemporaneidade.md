@@ -3,6 +3,7 @@ title: "Pixo Revista de Arquitetura, Cidade e Contemporaneidade"
 tags: 
 - periodicos
 - pixo
+- 2021
 ---
 
 #periodicos 

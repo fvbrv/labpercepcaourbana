@@ -6,6 +6,8 @@ tags:
 
 #inicio
 
+![[imagens/TIPO.png]]
+
 # Menu
 - 🔍 [[notes/Pesquisadores/Pesquisadores]]
 - 📄 [[notes/Periódicos/Periodicos]]
