@@ -2,6 +2,7 @@
 title: "Universidade Federal de Santa Catarina"
 tag:
 - UFSC
+- universidade
 ---
 
 #universidade #santacatarina 

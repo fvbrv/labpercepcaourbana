@@ -1,4 +1,4 @@
-name: Jacky Zhao
+name: Grupo P4
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -12,12 +12,11 @@ enableRecentNotes: false
 enableGitHubEdit: false
 GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  Página do Laboratório de Percepção Urbana da Universidade Federal de Santa Catarina.
 page_title:
-  "🪴 Quartz 3.2"
+  "Laboratório Percepção Urbana"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
-  - link_name: Github
-    link: https://github.com/jackyzha0
+  - link_name: Wix
+    link: https://grupopesquisap4.wixsite.com/website
+  - link_name: UFSC
+    link: https://posarq.ufsc.br
