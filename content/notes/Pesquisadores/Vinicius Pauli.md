@@ -1,5 +1,9 @@
 ---
 title: "Vinicius Pauli"
+tags: 
+- pesquisadores
+- santacatarina
+- ativo
 ---
 
 #pesquisador #grupop4 #santacatarina #ativo 

@@ -1,8 +1,11 @@
 ---
 title: "Litoral - SP"
+tag: 
+- local
+- litoralsp
 ---
 
 #locaisdepesquisa #litoralsp
 
 # Cidades
-- [[Locais de pesquisa/SP/Cidades/São Vicente - SP]]
+- [[notes/Locais de pesquisa/SP/Cidades/São Vicente - SP]]

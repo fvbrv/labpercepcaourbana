@@ -1,5 +1,9 @@
 ---
 title: "Lucas Rodrigo Nora"
+tags: 
+- pesquisadores
+- santacatarina
+- ativo
 ---
 
 #pesquisador #grupop4 #santacatarina #ativo 

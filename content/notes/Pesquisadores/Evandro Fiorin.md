@@ -1,5 +1,8 @@
 ---
 title: "Evandro Fiorin"
+tags: 
+- pesquisadores
+- professordoutor
 ---
 
 #professor #pesquisador #grupop4

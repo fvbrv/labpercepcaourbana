@@ -1,5 +1,8 @@
 ---
 title: "ebook Cidade Inacabada ANAP"
+tags: 
+- 2021
+- ebook
 ---
 
 #trabalhos #ebook
@@ -50,13 +53,13 @@ pre em processo.
 Prof. Dr. Evandro Fiorin
 
 ## Integrantes
-- [[Evandro Fiorin]] - Coordernador
-- [[Pesquisadores/Djonathan Freitas]]
-- [[Pesquisadores/Guilherme do Carmo Gomes Dias]]
-- [[Pesquisadores/Heber Macel Tenório Vasconcelos]]
-- [[Pesquisadores/Kellen Melo Dorileo Louzich]]
-- [[Pesquisadores/Lais da Silva Rodrigues]]
-- [[Pesquisadores/Lucas do Nascimento Souza]]
-- [[Pesquisadores/Arthur Fracaro Gonçalves]]
-- [[Pesquisadores/Matheus Alcântara Silva Chaparim]]
-- [[Paula Gabbi Polli]]
+- [[notes/Pesquisadores/Evandro Fiorin]] - Coordernador
+- [[notes/Pesquisadores/Djonathan Freitas]]
+- [[notes/Pesquisadores/Guilherme do Carmo Gomes Dias]]
+- [[notes/Pesquisadores/Heber Macel Tenório Vasconcelos]]
+- [[notes/Pesquisadores/Kellen Melo Dorileo Louzich]]
+- [[notes/Pesquisadores/Lais da Silva Rodrigues]]
+- [[notes/Pesquisadores/Lucas do Nascimento Souza]]
+- [[notes/Pesquisadores/Arthur Fracaro Gonçalves]]
+- [[notes/Pesquisadores/Matheus Alcântara Silva Chaparim]]
+- [[notes/Pesquisadores/Paula Gabbi Polli]]

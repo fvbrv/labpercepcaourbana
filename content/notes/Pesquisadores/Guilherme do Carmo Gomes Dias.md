@@ -1,5 +1,9 @@
 ---
 title: "Guilherme do Carmo Gomes Dias"
+tags: 
+- pesquisadores
+- saopaulo
+- egresso
 ---
 
 #pesquisador #grupop4 #egresso 

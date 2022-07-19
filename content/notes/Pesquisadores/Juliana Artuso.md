@@ -1,5 +1,9 @@
 ---
 title: "Juliana Artuso"
+tags: 
+- pesquisadores
+- ?
+- egresso
 ---
 
 #pesquisador #grupop4 #egresso 

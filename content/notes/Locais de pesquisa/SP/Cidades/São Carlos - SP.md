@@ -1,5 +1,9 @@
 ---
 title: "São Carlos - SP"
+tag: 
+- local
+- interiorsp
+- saocarlos
 ---
 
 #locaisdepesquisa #interiorsp 
@@ -8,4 +12,4 @@ title: "São Carlos - SP"
 - a
 
 # Pesquisador
-- [[Pesquisadores/Marina Biazotto Frascareli]]
+- [[notes/Pesquisadores/Marina Biazotto Frascareli]]

@@ -1,5 +1,9 @@
 ---
 title: "Clara Troncoso Mello"
+tags: 
+- pesquisadores
+- ?
+- egresso
 ---
 
 #pesquisador #grupop4 #egresso 

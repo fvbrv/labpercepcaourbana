@@ -1,5 +1,9 @@
 ---
 title: "Igor Augusto de March"
+tags: 
+- pesquisadores
+- santacatarina
+- ativo
 ---
 
 #pesquisador #grupop4 #santacatarina #ativo 

@@ -1,5 +1,9 @@
 ---
 title: "Amarildo Marcos Soares Junior"
+tags: 
+- pesquisadores
+- riodejaneiro
+- egresso
 ---
 
 #pesquisador #grupop4 #egresso #riodejaneiro

@@ -1,5 +1,9 @@
 ---
 title: "Candido Mota - SP"
+tag: 
+- local
+- interiorsp
+- candidomota
 ---
 
 #locaisdepesquisa #interiorsp 
@@ -8,4 +12,4 @@ title: "Candido Mota - SP"
 - a
 
 # Pesquisador
-- [[Pesquisadores/Mariana Mamedes dos Santos]]
+- [[notes/Pesquisadores/Mariana Mamedes dos Santos]]

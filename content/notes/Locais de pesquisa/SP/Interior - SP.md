@@ -1,5 +1,8 @@
 ---
 title: "Interior - SP"
+tag: 
+- local
+- interiorsp
 ---
 
 #locaisdepesquisa #interiorsp

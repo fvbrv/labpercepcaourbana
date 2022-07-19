@@ -1,5 +1,9 @@
 ---
 title: "Lais da Silva Rodrigues"
+tags: 
+- pesquisadores
+- saopaulo
+- ativo
 ---
 
 #pesquisador #grupop4 #ativo #sãopaulo 
@@ -13,7 +17,7 @@ http://lattes.cnpq.br/5021449091062609
 # Email e Contato
 [lais.s.rodrigues@unesp.br](mailto:lais.s.rodrigues@unesp.br) [laissrodrigues3@gmail.com](mailto:laissrodrigues3@gmail.com)
 # Trabalhos
-[[Produções/Revista Nacional de Gerenciamento de Cidades]]
+[[notes/Produções/Periodicos/Revista Nacional de Gerenciamento de Cidades]]
 [[Produções/ebook Cidade Inacabada ANAP]]
 
 ## Capítulos de livro publicado

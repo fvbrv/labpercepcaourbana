@@ -1,5 +1,9 @@
 ---
 title: "Arthur Fracaro Gonçalves"
+tags: 
+- pesquisadores
+- santacatarina
+- ativo
 ---
 
 #pesquisador #grupop4 #santacatarina #ativo 

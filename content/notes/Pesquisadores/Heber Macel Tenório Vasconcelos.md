@@ -1,5 +1,9 @@
 ---
 title: "Heber Macel Tenório Vasconcelos"
+tags: 
+- pesquisadores
+- alagoas
+- egresso
 ---
 
 #pesquisador #grupop4 #egresso #alagoas

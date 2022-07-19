@@ -1,5 +1,9 @@
 ---
 title: "Rafael Marcos Zatta Krahl"
+tags: 
+- pesquisadores
+- santacatarina
+- ativo
 ---
 
 #pesquisador #grupop4 #ativo #santacatarina  

@@ -1,5 +1,9 @@
 ---
 title: "Kauê Marques Romão"
+tags: 
+- pesquisadores
+- saopaulo
+- ativo
 ---
 
 #pesquisador #grupop4 #ativo #sãopaulo

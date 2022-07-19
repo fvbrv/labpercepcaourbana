@@ -1,5 +1,9 @@
 ---
 title: "Mariana Mamedes dos Santos"
+tags: 
+- pesquisadores
+- saopaulo
+- ativo
 ---
 
 #pesquisador #grupop4 #ativo #sãopaulo 

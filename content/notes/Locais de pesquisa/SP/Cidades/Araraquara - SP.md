@@ -1,5 +1,9 @@
 ---
 title: "Araraquara - SP"
+tag: 
+- local
+- interiorsp
+- araraquara
 ---
 
 #locaisdepesquisa #interiorsp 
@@ -8,4 +12,4 @@ title: "Araraquara - SP"
 - a
 
 # Pesquisador
-- [[Pesquisadores/Lais da Silva Rodrigues]]
+- [[notes/Pesquisadores/Lais da Silva Rodrigues]]
