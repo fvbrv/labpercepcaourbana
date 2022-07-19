@@ -13,7 +13,7 @@ tags:
 - 📄 [[notes/Periódicos/Periodicos]]
 - 🗺️ [[notes/Locais de pesquisa/Locais de pesquisa]]
 - ✏️ [[notes/Produções/Projetos de pesquisa]]
-- [[notes/Instituições/Universidade Federal de Santa Catarina]]
+- 🎓 [[notes/Instituições/Instituições]]
 
 # Sobre
 
