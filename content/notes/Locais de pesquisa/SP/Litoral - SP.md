@@ -9,3 +9,6 @@ tag:
 
 # Cidades
 - [[notes/Locais de pesquisa/SP/Cidades/São Vicente - SP]]
+
+# Pesquisador
+- [[notes/Pesquisadores/Kauê Marques Romão]]
