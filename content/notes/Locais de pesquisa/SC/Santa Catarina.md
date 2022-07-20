@@ -7,6 +7,7 @@ tag:
 
 ## Região
 - [[notes/Locais de pesquisa/SC/Cidades/Florianopólis - SC|Florianópolis]], capital
+- Lages
 - Mesoregião
 
 ## Trabalhos

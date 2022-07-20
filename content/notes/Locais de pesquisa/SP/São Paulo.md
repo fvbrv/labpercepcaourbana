@@ -18,6 +18,7 @@ tag:
 ## Pesquisador
 - [[notes/Pesquisadores/Guilherme do Carmo Gomes Dias|Guilherme do Carmo Gomes Dias]]
 - [[notes/Pesquisadores/Lais da Silva Rodrigues|Lais da Silva Rodrigues]]
+- [[notes/Pesquisadores/Lucas do Nascimento Souza| Lucas do Nascimento Souza]]
 - [[notes/Pesquisadores/Marina Biazotto Frascareli|Marina Biazotto Frascareli]]
 - [[notes/Pesquisadores/Mariana Mamedes dos Santos|Mariana Mamedes dos Santos]]
 - [[notes/Pesquisadores/Kauê Marques Romão|Kauê Marques Romão]]

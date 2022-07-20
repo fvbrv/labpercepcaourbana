@@ -1,5 +1,8 @@
 ---
 title: "São Vicente - SP"
+tag:
+- litoralsp
+- saovicente
 ---
 
 ## Trabalhos

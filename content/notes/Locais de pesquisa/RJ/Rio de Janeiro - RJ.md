@@ -9,7 +9,8 @@ tag:
 - Rio de Janeiro, capital
 
 ## Trabalhos
-- O Rio de Janeiro pela experiência de Frederico Morais
+- [[notes/Produções/O Rio de Janeiro pela experiência de Frederico Morais|O Rio de Janeiro pela experiência de Frederico Morais]]
+
 
 ## Pesquisador
 - [[notes/Pesquisadores/Amarildo Marcos Soares Junior|Amarildo Marcos Soares Junior]]

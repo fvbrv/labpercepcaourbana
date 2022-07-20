@@ -1,14 +1,14 @@
 ---
-title: "Araraquara história e patrimônio ferroviário e industrial"
+title: "Patrimônio, Marginalidade e Gentrificação ao longo do antigo leito férreo de Bauru-SP"
 tag:
-- 2020
+- interiorsp
+- bauru
 - gerenciamentodecidades
+- 2020
 ---
-
 ## Resumo
 - a
 ## Pesquisador
-- [[notes/Pesquisadores/Lais da Silva Rodrigues|Lais da Silva Rodrigues]]
 - [[notes/Pesquisadores/Lucas do Nascimento Souza|Lucas do Nascimento Souza]]
 - [[notes/Pesquisadores/Evandro Fiorin|Evandro Fiorin]]
 ### Ano

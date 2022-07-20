@@ -7,8 +7,8 @@ tag:
 ---
 
 ## Trabalhos
-- PERMANÊNCIAS E TRANSFORMAÇÕES DO CENTRO HISTÓRICO DE CUIABÁ: UMA CONSTRUÇÃO HISTORIOGRÁFICA
-- Arquitetura Cuiabana: permanências e transformações no centro histórico da cidade
+- [[notes/Produções/Permanências e transformações do Centro Histórico de Cuiabá|Permanências e transformações do Centro Histórico de Cuiabá]]
+- [[notes/Produções/Arquitetura Cuiabana permanências e transformações no centro histórico da cidade|Arquitetura Cuiabana permanências e transformações no centro histórico da cidade]]
 
 ## Pesquisador
 - [[notes/Pesquisadores/Kellen Melo Dorileo Louzich|Kellen Melo Dorileo Louzich]]

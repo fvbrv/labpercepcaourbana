@@ -22,4 +22,4 @@ tag:
 - [[notes/Pesquisadores/Vinicius Pauli|Vinicius Pauli]]
 - [[notes/Pesquisadores/Amarildo Marcos Soares Junior|Amarildo Marcos Soares Junior]]
 - [[notes/Pesquisadores/Kellen Melo Dorileo Louzich|Kellen Melo Dorileo Louzich]]
-- [[Matheus José Rigon]]
+- [[notes/Pesquisadores/Matheus José Rigon]]

@@ -1,13 +1,12 @@
 ---
 title: "Capital - SP"
 tag: 
-- local
 - sp
-- capitalsp
+- saopaulo
 ---
 
 ## Trabalhos
-- Caminhografias no Minhocão em São Paulo
+- [[notes/Produções/Caminhografias no Minhocão em São Paulo|Caminhografias no Minhocão em São Paulo]]
 
 ## Pesquisador
  - [[notes/Pesquisadores/Guilherme do Carmo Gomes Dias|Guilherme do Carmo Gomes Dias]]

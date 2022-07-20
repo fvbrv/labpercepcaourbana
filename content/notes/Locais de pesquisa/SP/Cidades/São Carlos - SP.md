@@ -1,7 +1,6 @@
 ---
 title: "São Carlos - SP"
 tag: 
-- local
 - interiorsp
 - saocarlos
 ---

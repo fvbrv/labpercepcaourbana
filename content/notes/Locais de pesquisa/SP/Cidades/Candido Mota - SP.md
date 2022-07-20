@@ -1,12 +1,9 @@
 ---
 title: "Candido Mota - SP"
 tag: 
-- local
 - interiorsp
 - candidomota
 ---
-
-#locaisdepesquisa #interiorsp 
 
 ## Trabalhos
 - a

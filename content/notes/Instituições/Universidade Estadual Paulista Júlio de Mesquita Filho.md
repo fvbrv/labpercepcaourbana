@@ -6,7 +6,7 @@ tag:
 ---
 
 ## Professor
-- [[Hélio Hirao]]
+- [Hélio Hirao]
 
 ## Trabalhos
 - [[notes/Produções/Ourinhos história e patrimônio ferroviário e industrial|Ourinhos história e patrimônio ferroviário e industrial]]

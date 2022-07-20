@@ -24,7 +24,7 @@ a
  - [[notes/Pesquisadores/Arthur Fracaro Gonçalves|Arthur Fracaro Gonçalves]] - Integrante
  - [[notes/Pesquisadores/Mariana Mamedes dos Santos|Mariana Mamedes dos Santos]] - Integrante
  - [[notes/Pesquisadores/Lais da Silva Rodrigues|Lais da Silva Rodrigues]] - Integrante
- - [[Amarildo Marcos Soares Junior]] - Integrante
+ - [[notes/Pesquisadores/Amarildo Marcos Soares Junior|Amarildo Marcos Soares Junior]] - Integrante
  - [[notes/Pesquisadores/Marina Biazotto Frascareli|Marina Biazotto Frascareli]] - Integrante
  - [[notes/Pesquisadores/Rafael Marcos Zatta Krahl|Rafael Marcos Zatta Krahl]] - Integrante
  - [[notes/Pesquisadores/Kauê Marques Romão|Kauê Marques Romão]] - Integrante
