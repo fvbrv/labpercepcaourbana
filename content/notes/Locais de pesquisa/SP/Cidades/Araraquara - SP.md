@@ -6,10 +6,8 @@ tag:
 - araraquara
 ---
 
-#locaisdepesquisa #interiorsp 
-
-# Trabalhos
+## Trabalhos
 - a
 
-# Pesquisador
-- [[notes/Pesquisadores/Lais da Silva Rodrigues]]
+## Pesquisador
+- [[notes/Pesquisadores/Lais da Silva Rodrigues|Lais da Silva Rodrigues]]

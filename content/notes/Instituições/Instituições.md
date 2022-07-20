@@ -4,5 +4,5 @@ tag:
 - universidade
 ---
 
-- UNESP - [[notes/Instituições/Universidade Estadual Paulista Júlio de Mesquita Filho]]
-- UFSC - [[notes/Instituições/Universidade Federal de Santa Catarina]]
+- UNESP - [[Universidade Estadual Paulista Júlio de Mesquita Filho]]
+- UFSC - [[Universidade Federal de Santa Catarina]]

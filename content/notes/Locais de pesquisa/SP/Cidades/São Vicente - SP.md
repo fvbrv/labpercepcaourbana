@@ -2,10 +2,8 @@
 title: "São Vicente - SP"
 ---
 
-#locaisdepesquisa #litoralsp 
-
-# Trabalhos
+## Trabalhos
 - a
 
-# Pesquisador
-- [[Pesquisadores/Kauê Marques Romão]]
+## Pesquisador
+- [[notes/Pesquisadores/Kauê Marques Romão|Kauê Marques Romão]]

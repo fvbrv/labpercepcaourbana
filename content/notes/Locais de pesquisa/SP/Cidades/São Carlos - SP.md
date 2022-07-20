@@ -6,10 +6,8 @@ tag:
 - saocarlos
 ---
 
-#locaisdepesquisa #interiorsp 
-
-# Trabalhos
+## Trabalhos
 - a
 
-# Pesquisador
-- [[notes/Pesquisadores/Marina Biazotto Frascareli]]
+## Pesquisador
+- [[notes/Pesquisadores/Marina Biazotto Frascareli|Marina Biazotto Frascareli]]

@@ -6,13 +6,11 @@ tags:
 - 2021
 ---
 
-#periodicos 
+## Sobre a revista
+- a
 
-# Sobre a revista
-a
+## Anos
+- [[notes/Ano/2021|2021]]
 
-# Anos
-- [[notes/Ano/2021]]
-
-# Trabalhos
+## Trabalhos
 - a

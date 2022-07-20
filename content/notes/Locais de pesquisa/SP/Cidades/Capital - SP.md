@@ -6,10 +6,8 @@ tag:
 - capitalsp
 ---
 
-#locaisdepesquisa #capitalsp
-
-# Trabalhos
+## Trabalhos
 - Caminhografias no Minhocão em São Paulo
 
-# Pesquisador
- - [[notes/Pesquisadores/Guilherme do Carmo Gomes Dias]]
+## Pesquisador
+ - [[notes/Pesquisadores/Guilherme do Carmo Gomes Dias|Guilherme do Carmo Gomes Dias]]

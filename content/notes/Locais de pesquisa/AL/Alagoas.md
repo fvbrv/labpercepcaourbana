@@ -5,13 +5,12 @@ tag:
 - al
 ---
 
-#locaisdepesquisa #alagoas 
 
-# Região
-- [[notes/Locais de pesquisa/AL/Maceió]]
+## Região
+- [[notes/Locais de pesquisa/AL/Maceió|Maceió]], capital 
 
-# Trabalhos
+## Trabalhos
 - Patrimônio arquitetônico e urbano do bairro Jaraguá, Maceió/AL
 
-# Pesquisador
-- [[notes/Pesquisadores/Heber Macel Tenório Vasconcelos]]
+## Pesquisador
+- [[notes/Pesquisadores/Heber Macel Tenório Vasconcelos|Heber Macel Tenório Vasconcelos]]

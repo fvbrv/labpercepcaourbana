@@ -5,13 +5,12 @@ tag:
 - mt
 ---
 
-#locaisdepesquisa #matogrosso 
+## Região
+- [[notes/Locais de pesquisa/MT/Cuiabá - MT| Cuiabá]]
 
-# Região
-- [[notes/Locais de pesquisa/MT/Cuiabá - MT]]
+## Trabalhos
+- PERMANÊNCIAS E TRANSFORMAÇÕES DO CENTRO HISTÓRICO DE CUIABÁ: UMA CONSTRUÇÃO HISTORIOGRÁFICA
+- Arquitetura Cuiabana: permanências e transformações no centro histórico da cidade
 
-# Trabalhos
-- a
-
-# Pesquisador
-- [[notes/Pesquisadores/Kellen Melo Dorileo Louzich]]
+## Pesquisador
+- [[notes/Pesquisadores/Kellen Melo Dorileo Louzich|Kellen Melo Dorileo Louzich]]

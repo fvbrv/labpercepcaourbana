@@ -8,12 +8,12 @@ tag:
 
 #projetosdepesquisa
 
-# Anos
-- [[notes/Ano/2022]]
-- [[notes/Ano/2021]]
-- [[notes/Ano/2020]]
+## Anos
+- [2022](notes/Ano/2022)
+- [2021](notes/Ano/2021)
+- [2020](notes/Ano/2020)
 
-# Trabalhos
+## Trabalhos
 - a
 - b
 - c

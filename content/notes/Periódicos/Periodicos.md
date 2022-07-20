@@ -4,8 +4,9 @@ tags:
 - periodicos
 ---
 
-#periodicos 
+Periódicos com algumas de nossas publicações
 
-# Periódicos
-[[notes/Produções/Periodicos/Revista Nacional de Gerenciamento de Cidades]]
-[[notes/Produções/Periodicos/Pixo Revista de Arquitetura, Cidade e Contemporaneidade]]
+## Periódicos
+-  🌃 [[notes/Produções/Periodicos/Revista Nacional de Gerenciamento de Cidades| Revista Nacional de Gerenciamento de Cidades]]
+- 🖌️ [[notes/Produções/Periodicos/Pixo Revista de Arquitetura, Cidade e Contemporaneidade|Pixo Revista de Arquitetura, Cidade e Contemporaneidade]]
+

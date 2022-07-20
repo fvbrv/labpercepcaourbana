@@ -5,10 +5,8 @@ tag:
 - litoralsp
 ---
 
-#locaisdepesquisa #litoralsp
+## Cidades
+- [[notes/Locais de pesquisa/SP/Cidades/São Vicente - SP|São Vicente]]
 
-# Cidades
-- [[notes/Locais de pesquisa/SP/Cidades/São Vicente - SP]]
-
-# Pesquisador
-- [[notes/Pesquisadores/Kauê Marques Romão]]
+## Pesquisador
+- [[notes/Pesquisadores/Kauê Marques Romão|Kauê Marques Romão]]

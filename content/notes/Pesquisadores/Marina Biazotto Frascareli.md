@@ -4,21 +4,22 @@ tags:
 - pesquisadores
 - saopaulo
 - ativo
+- unesp
+- mestrado
+- ferrovia
 ---
 
-#pesquisador #grupop4 #ativo #sãopaulo  
-
-# Nome
+## Nome
 Marina Biazotto Frascareli
-# Formação
+## Formação
 a
-# Lattes
+## Lattes
 http://lattes.cnpq.br/9344662967503617
-# Email e Contato
+## Email e Contato
 mb.frascareli@unesp.br
-# Trabalhos
-a
+## Trabalhos
+- a
 
-## Mestrado em andamento 
+### Mestrado em andamento 
 
 Marina Biazotto Frascareli. São Carlos: patrimônio e marginalidade ao longo do antigo leito férreo. Início: 2022. Dissertação (Mestrado em Arquitetura e Urbanismo) - Universidade Estadual Paulista Júlio de Mesquita Filho.

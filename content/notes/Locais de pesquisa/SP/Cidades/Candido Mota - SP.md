@@ -8,8 +8,8 @@ tag:
 
 #locaisdepesquisa #interiorsp 
 
-# Trabalhos
+## Trabalhos
 - a
 
-# Pesquisador
-- [[notes/Pesquisadores/Mariana Mamedes dos Santos]]
+## Pesquisador
+- [[notes/Pesquisadores/Mariana Mamedes dos Santos|Mariana Mamedes dos Santos]]

@@ -5,10 +5,11 @@ tag:
 - rj
 ---
 
-#locaisdepesquisa #riodejaneiro 
+## Região
+- Rio de Janeiro, capital
 
-# Trabalhos
+## Trabalhos
 - O Rio de Janeiro pela experiência de Frederico Morais
 
-# Pesquisador
-- [[notes/Pesquisadores/Amarildo Marcos Soares Junior]]
+## Pesquisador
+- [[notes/Pesquisadores/Amarildo Marcos Soares Junior|Amarildo Marcos Soares Junior]]

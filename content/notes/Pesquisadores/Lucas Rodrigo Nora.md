@@ -4,18 +4,20 @@ tags:
 - pesquisadores
 - santacatarina
 - ativo
+- ufsc
+- doutorado
+- paisagem da produção
 ---
 
-#pesquisador #grupop4 #santacatarina #ativo 
-
-# Nome
+## Nome
 Lucas Rodrigo Nora
-# Lattes
+## Lattes
 http://lattes.cnpq.br/5224900327031264
-# Email e contato
+## Email e contato
 a
-# Trabalhos
+## Trabalhos
+- a
 
-## Doutorado em andamento
+### Doutorado em andamento
 
 Lucas Rodrigo Nora. Arquiteturas Abandonadas em Santa Catarina. Início: 2022. Tese (Doutorado em Arquitetura e Urbanismo) - Universidade Federal de Santa Catarina, Fundação de Amparo à Pesquisa e Inovação do Estado de Santa Catarina.
