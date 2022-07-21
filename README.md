@@ -1,19 +1,6 @@
-# Quartz
+# Laboratório Percepção Urbana
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+O Grupo de Pesquisa de Projeto, Patrimônio, Percepção e Paisagem, pertence ao Laboratório de Percepção Urbana junto à Universidade Federal de Santa Catarina, Campus de Florianópolis onde o Professor Doutor Evandro Fiorin atua como líder do referido grupo e como professor adjunto no Departamento de Arquitetura e Urbanismo e, também, no Programa de Pós-Graduação em Arquitetura e Urbanismo. 
 
-1. Extremely fast full-text search by pressing `Ctrl` + `k`
-2. Customizable and hackable design based on Hugo
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in CJK + Latex Support
-5. Support for both Markdown Links and Wikilinks
+🔗 Get Started: https://fvbrv.github.io/labpercepcaourbana/
 
-Check out some of the [amazing gardens that community members](https://quartz.jzhao.xyz/notes/showcase/) have published with Quartz!
-
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
-
-🔗 Get Started: https://quartz.jzhao.xyz/
-
-![Quartz Example Screenshot](./screenshot.png)*Quartz Example Screenshot*
-
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
