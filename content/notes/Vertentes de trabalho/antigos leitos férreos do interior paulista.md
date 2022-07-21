@@ -5,7 +5,7 @@ tag:
 - são paulo
 ---
 
-Pesquisas em [[notes/Locais de pesquisa/SP/São Paulo|São Paulo]]
+Pesquisas no estado de [[notes/Locais de pesquisa/SP/São Paulo|São Paulo]]
 
 ## Trabalhos
 - [[notes/Produções/Ourinhos história e patrimônio ferroviário e industrial|Ourinhos história e patrimônio ferroviário e industrial]]

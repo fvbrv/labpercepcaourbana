@@ -4,7 +4,7 @@ tags:
 - pesquisadores
 ---
 
-Integrantes do grupo P4
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 ## Coordenador
 - [[notes/Pesquisadores/Evandro Fiorin|Evandro Fiorin]] - Professor Doutor

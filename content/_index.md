@@ -4,9 +4,7 @@ tags:
 - inicio
 ---
 
-![[imagens/TIPO.png|{width=50%}]]
-
-Bem vindo ao nosso território virtual! Sinta-se a vontade para derivar neste espaço virtual.
+Bem vindo ao nosso território virtual! Sinta-se a vontade para derivar aqui.
 
 Veja algumas de nossas publicações nos [[notes/Periódicos/Periodicos|periódicos]]. Leia também [[notes/Sobre/Sobre|sobre]] nosso grupo, as [[notes/Vertentes de trabalho/vertentes de trabalho| vertentes de trabalho]], nossos [[notes/Pesquisadores/Pesquisadores|pesquisadores]], os locais de pesquisa e os projetos em andamento. 
 
@@ -24,3 +22,5 @@ Veja algumas de nossas publicações nos [[notes/Periódicos/Periodicos|periódi
 ### Contato
 - ✉️ gpesquisa.p4@gmail.com
 - 🗨️ Grupo de pesquisa
+
+

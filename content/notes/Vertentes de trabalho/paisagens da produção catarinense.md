@@ -5,7 +5,7 @@ tag:
 - santa catarina
 ---
 
-Pesquisas em [[notes/Locais de pesquisa/SC/Santa Catarina|Santa Catarina]]
+Pesquisas no estado de [[notes/Locais de pesquisa/SC/Santa Catarina|Santa Catarina]]
 
 ## Trabalhos
 - a
