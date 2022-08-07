@@ -10,12 +10,16 @@ tags:
 
 ## Nome
 Igor Augusto de March
+
 ## Formação
 Graduando em Arquitetura e Urbanista/ Universidade Federal de Santa Catarina - UFSC. Bolsista de Iniciação Científica PIBIC-CNPq-UFSC
+
 ## Lattes
 http://lattes.cnpq.br/2483094827584327
+
 ## Email e Contato
-[igordemarch@hotmail.com](mailto:igordemarch@hotmail.com)/ (48) 99915-2610
+[igordemarch@hotmail.com](mailto:igordemarch@hotmail.com)
+
 ## Trabalhos
 - [[notes/Produções/Projetos de Pesquisa/TransUrbanoGramas|TransUrbanoGramas]] 
 

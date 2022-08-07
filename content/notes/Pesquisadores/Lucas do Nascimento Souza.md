@@ -9,15 +9,20 @@ tags:
 
 ## Nome
 Lucas do Nascimento Souza
+
 ## Formação
 Arquiteto e Urbanista formado pela Universidade do Sagrado Coração - USC e Mestre em Arquitetura e Urbanismo pela Universidade Estadual Paulista "Júlio de Mesquita Filho" - UNESP Bauru.
+
 ## Lattes
 http://lattes.cnpq.br/4799078161046231
+
 ## Email e Contato
 arqlucasnascimento@gmail.com
+
 ## Trabalhos
 - [[notes/Produções/Patrimônio, Marginalidade e Gentrificação ao longo do antigo leito férreo de Bauru-SP|Patrimônio, Marginalidade e Gentrificação ao longo do antigo leito férreo de Bauru-SP]]
-- [[notes/Produções/Walking as an intervention]]
+- [[notes/Produções/Walking as an intervention|Walking as an intervention]]
+
 ### Capítulo de livro publicado
 
 [FIORIN, E.](http://lattes.cnpq.br/5599203800231511); SOUZA, L. N. **Patrimônio, Marginalidade e Gentrificação ao longo do antigo leito férreo de Bauru-SP: A Vila Antártica**. In: MAGAGNIN, R. C.; CONSTANTINO, N. R. T; BENINI, S. M. (org).. (Org.). Cidade, História e Patrimônio. 1ed.Tupã-São Paulo: ANAP, 2019, v. 1, p. 189-202.

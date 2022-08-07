@@ -6,9 +6,11 @@ tag:
 ---
 
 ## Resumo
-- a
+-
+
 ## Pesquisador
 - [[notes/Pesquisadores/Guilherme do Carmo Gomes Dias|Guilherme do Carmo Gomes Dias]]
 - [[notes/Pesquisadores/Evandro Fiorin|Evandro Fiorin]]
+
 ### Ano
 - [[notes/Ano/2020|2020]]

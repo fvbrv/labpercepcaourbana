@@ -11,9 +11,10 @@ tag:
 - [[notes/Locais de pesquisa/SP/Litoral - SP|Litoral]]
 
 ## Trabalhos
-- a
-- b
-- c
+- [[notes/Produções/O caminhar como modalidade de pesquisa três percursos de Francesco Careri em São Paulo - SP|O caminhar como modalidade de pesquisa três percursos de Francesco Careri em São Paulo - SP]]
+- [[notes/Produções/Ourinhos história e patrimônio ferroviário e industrial|Ourinhos história e patrimônio ferroviário e industrial]]
+- [[notes/Produções/Patrimônio Ferroviário da estação Samaritá em São Vicente - SP| Patrimônio Ferroviário da estação Samaritá em São Vicente - SP]]
+- [[notes/Produções/Araraquara história e patrimônio ferroviário e industrial|Araraquara história e patrimônio ferroviário e industrial]]
 
 ## Pesquisador
 - [[notes/Pesquisadores/Guilherme do Carmo Gomes Dias|Guilherme do Carmo Gomes Dias]]

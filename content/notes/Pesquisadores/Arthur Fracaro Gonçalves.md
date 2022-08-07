@@ -10,12 +10,16 @@ tags:
 
 ## Nome
 Arthur Fracaro Gonçalves
+
 ## Formação
 Graduando em Arquitetura e Urbanismo/ Universidade Federal de Santa Catarina - UFSC. Bolsista de Iniciação Científica PIBIC-CNPq-UFSC.
+
 ## Lattes
 [http://lattes.cnpq.br/9279268043381284](http://lattes.cnpq.br/9279268043381284)
+
 ## Email e Contato
-[arthurfracaro@hotmail.com](mailto:arthurfracaro@hotmail.com)/ (48) 99809-7368
+[arthurfracaro@hotmail.com](mailto:arthurfracaro@hotmail.com)
+
 ## Trabalhos
 - [[notes/Produções/Projetos de Pesquisa/TransUrbanoGramas|TransUrbanoGramas]]: experiências de reconhecimento urbano no centro expandido de Florianópolis. 
 - [[notes/Produções/Projetos de Pesquisa/ebook Cidade Inacabada ANAP|ebook Cidade Inacabada]]

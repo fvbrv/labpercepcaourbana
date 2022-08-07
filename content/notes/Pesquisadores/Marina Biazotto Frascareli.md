@@ -11,14 +11,21 @@ tags:
 
 ## Nome
 Marina Biazotto Frascareli
+
 ## Formação
-a
+Arquiteta e Urbanista pelo Centro Universitário Sagrado Coração, UNISAGRADO (2017)
+
 ## Lattes
 http://lattes.cnpq.br/9344662967503617
+
 ## Email e Contato
 mb.frascareli@unesp.br
+
 ## Trabalhos
-- a
+- [[notes/Produções/O caminhar como modalidade de pesquisa três percursos de Francesco Careri em São Paulo - SP|O caminhar como modalidade de pesquisa três percursos de Francesco Careri em São Paulo - SP]]
+
+### Trabalhos completos publicados em anais de congresso
+ **[FRASCARELI, M. B.](http://lattes.cnpq.br/9344662967503617)**; [FIORIN, E.](http://lattes.cnpq.br/5599203800231511 "Clique para visualizar o currículo") . O caminhar como modalidade de pesquisa: três percursos de Francesco Careri em São Paulo - SP. In: VI SIBOGU - Simpósio Brasileiro Online de Gestão Urbana, 2022, On-line. Projetos, intervenções e requalificações na cidade contemporânea. Tupã-SP: ANAP, 2022.
 
 ### Mestrado em andamento 
 

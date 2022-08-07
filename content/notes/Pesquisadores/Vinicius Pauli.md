@@ -7,12 +7,15 @@ tags:
 ---
 ## Nome
 Vinicius Pauli
+
 ## Formação
 Graduando em Arquitetura e Urbanismo pela Universidade Federal de Santa Catarina.
+
 ## Lattes
 http://lattes.cnpq.br/0524051648561557
+
 ## Email e Contato
-[vinicius.pauli99@gmail.com](mailto:vinicius.pauli99@gmail.com)/ (48) 99981-9270
+[vinicius.pauli99@gmail.com](mailto:vinicius.pauli99@gmail.com)
 ## Trabalhos
 
 ### Iniciação científica 

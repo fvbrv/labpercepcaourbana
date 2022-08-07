@@ -14,8 +14,8 @@ localGraph:
     repelForce: 2
     centerForce: 2
     linkDistance: 0.5
-    fontSize: 0.5
-    opacityScale: 1
+    fontSize: 0.7
+    opacityScale: 0.5
 
 ### Global Graph ###
 
@@ -24,14 +24,22 @@ globalGraph:
     enableDrag: true
     enableZoom: true
     depth: -1 # set to -1 to show full graph
-    scale: 0.8
+    scale: 0.5
     repelForce: 3
     centerForce: 1
     linkDistance: 1
-    fontSize: 0.7
-    opacityScale: 1
+    fontSize: 1.5
+    opacityScale: 0.2
 
 ### For all graphs ###
+#4388cc
 
 paths:
-  - /moc: "#4388cc"
+  - /notes: "#91a8d0"
+  - /notes/Pesquisadores/Pesquisadores: "#8ec127"
+  - /notes/Evandro Fiorin: "#8ec127"
+  - /notes/Sobre: "#4b86b4"
+  - /notes/Ano: "#adcbe3"
+  - /notes/Vertentes de trabalho: "#a200ff"
+  - /notes/Instituições/Instituições: "#a200ff"
+

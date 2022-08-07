@@ -1,18 +1,21 @@
 ---
-title: "Pesquisadores"
+title: "Grupo de Pesquisa de Projeto, Patrimônio, Percepção e Paisagem"
 tags: 
 - pesquisadores
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+![P4_Grupo de Pesquisa_01.png](https://static.wixstatic.com/media/0ab488_6e96564f125d494bbc15738fe29c53d6~mv2.png/v1/fill/w_237,h_66,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/P4_Grupo%20de%20Pesquisa_01.png)
 
-## Coordenador
-- [[notes/Pesquisadores/Evandro Fiorin|Evandro Fiorin]] - Professor Doutor
+### Coordenador
+- [[notes/Pesquisadores/Evandro Fiorin|Evandro Fiorin]] - Professor Doutor UFSC
 
-## Pesquisador externo ao grupo P4
-- Hélio Hirao - Professor Doutor
+### Pesquisador externo ao grupo P4
+- Hélio Hirao - Professor Doutor UNESP
 
-## Pesquisadores vinculados a Programas de Pós Graduação (Ativos)
+#### Projetos em andamento
+- [[notes/Produções/Projetos de Pesquisa/Terras Baldias|Terras Baldias: projeto inconcluso para uma cidade inacabada]]
+
+##### 🟢 Pesquisadores ativos
 - [[notes/Pesquisadores/Arthur Fracaro Gonçalves|Arthur Fracaro Gonçalves]] - UFSC
 - [[notes/Pesquisadores/Djonathan Freitas|Djonathan Freitas]] - UFSC
 - [[notes/Pesquisadores/Igor Augusto de March|Igor Augusto de March]] - UFSC
@@ -24,14 +27,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 - [[notes/Pesquisadores/Rafael Marcos Zatta Krahl|Rafael Marcos Zatta Krahl]] - UFSC
 - [[notes/Pesquisadores/Vinicius Pauli|Vinicius Pauli]] - UFSC
 
-## Pesquisadores vinculados a Programas de Pós Graduação (Egressos)
+##### 🔴 Pesquisadores egressos
 - [[notes/Pesquisadores/Amarildo Marcos Soares Junior|Amarildo Marcos Soares Junior]] - UFSC
-- [[notes/Pesquisadores/Clara Troncoso Mello|Clara Troncoso Mello]] - ?
+- [[notes/Pesquisadores/Clara Troncoso Mello|Clara Troncoso Mello]] - UFSC
 - [[notes/Pesquisadores/Guilherme do Carmo Gomes Dias|Guilherme do Carmo Gomes Dias]] - UPV
 - [[notes/Pesquisadores/Heber Macel Tenório Vasconcelos|Heber Macel Tenório Vasconcelos]] - UFMG
-- [[notes/Pesquisadores/Kellen Melo Dorileo Louzich|Kellen Melo Dorileo Louzich]] - ?
-- [[notes/Pesquisadores/Lucas do Nascimento Souza|Lucas do Nascimento Souza]] - ?
-- [[notes/Pesquisadores/Juliana Artuso|Juliana Artuso]] - ?
-- [[notes/Pesquisadores/Matheus Alcântara Silva Chaparim|Matheus Alcântara Silva Chaparim]] - ?
-
+- [[notes/Pesquisadores/Kellen Melo Dorileo Louzich|Kellen Melo Dorileo Louzich]] - UFSC
+- [[notes/Pesquisadores/Lucas do Nascimento Souza|Lucas do Nascimento Souza]] - UNESP
+- [[notes/Pesquisadores/Matheus Alcântara Silva Chaparim|Matheus Alcântara Silva Chaparim]] - UNESP
+- [[notes/Pesquisadores/Juliana Artuso|Juliana Artuso]] - UFSC
 

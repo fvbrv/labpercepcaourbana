@@ -1,26 +1,20 @@
 ---
-title:  "Grupo de Pesquisa de Projeto, Patrimônio, Percepção e Paisagem"
+title:  "Grupo P4"
 tags: 
 - inicio
 ---
 
-Bem vindo ao nosso território virtual! Sinta-se a vontade para derivar aqui.
+ Bem vindo ao nosso território virtual, sinta-se a vontade! 
+ 
+ Aqui você pode acompanhar tudo [[notes/Sobre/Sobre|sobre]] nosso grupo, nossas [[notes/Vertentes de trabalho/vertentes de trabalho| vertentes de trabalho]], [[notes/Pesquisadores/Pesquisadores|pesquisadores]], os locais de pesquisa e os [[notes/Pesquisadores/Pesquisadores#Projetos em andamento|projetos em andamento]]. 
 
-Veja algumas de nossas publicações nos [[notes/Periódicos/Periodicos|periódicos]]. Leia também [[notes/Sobre/Sobre|sobre]] nosso grupo, as [[notes/Vertentes de trabalho/vertentes de trabalho| vertentes de trabalho]], nossos [[notes/Pesquisadores/Pesquisadores|pesquisadores]], os locais de pesquisa e os projetos em andamento. 
-
- - Pesquise pelo assunto de seu interesse com as teclas `Ctrl` + `k`
+> Pesquise pelo assunto de seu interesse com as teclas `Ctrl` + `k`
 
 ## Menu
-- 🔍[[notes/Pesquisadores/Pesquisadores|Pesquisadores]]
+- 🔍[[notes/Pesquisadores/Pesquisadores|Grupo P4 (Pesquisa de Projeto, Patrimônio, Percepção e Paisagem)]]
 - 📄 [[notes/Periódicos/Periodicos|Periódicos]]
 - 🗺️ [[notes/Locais de pesquisa/Locais de pesquisa|Locais de pesquisa]]
 - ✏️ [[notes/Produções/Projetos de pesquisa|Projetos de pesquisa]]
 - 🎓 [[notes/Instituições/Instituições|Instituições]]
-### Pesquisas em andamento
-- 🔜 [[notes/Produções/Projetos de Pesquisa/Terras Baldias CNPQ|Terras Baldias]]
-
-### Contato
-- ✉️ gpesquisa.p4@gmail.com
-- 🗨️ Grupo de pesquisa
-
+- 💻 [[notes/Contato| Contato]]
 

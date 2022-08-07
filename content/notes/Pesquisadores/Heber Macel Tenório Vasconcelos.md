@@ -10,12 +10,16 @@ tags:
 
 ## Nome
 Heber Macel Tenório Vasconcelos
+
 ## Formação
 Arquiteto e Urbanista formado pela Universidade Federal de Alagoas - UFAL, Mestre em Arquitetura e Urbanismo pela Universidade Federal de Santa Catarina e Doutorando, Bolsista CAPES pela Universidade Federal de Minas Gerais - UFMG.
+
 ## Lattes
 http://lattes.cnpq.br/1290805936456727
+
 ## Email e Contato
-[macel.vasconcelos@ifrn.edu.br](mailto:macel.vasconcelos@ifrn.edu.br)/ (83) 99382-7800
+[macel.vasconcelos@ifrn.edu.br](mailto:macel.vasconcelos@ifrn.edu.br)
+
 ## Trabalhos
 
 ### Trabalhos em anais de congresso

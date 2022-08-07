@@ -6,7 +6,7 @@ tag:
 ---
 
 ## Trabalhos
-- a
+-
 
 ## Pesquisador
 - [[notes/Pesquisadores/Mariana Mamedes dos Santos|Mariana Mamedes dos Santos]]

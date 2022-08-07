@@ -6,7 +6,7 @@ tag:
 ---
 
 ## Resumo
-a
+-
 ## Pesquisador
 - [[notes/Pesquisadores/Evandro Fiorin|Evandro Fiorin]]
 - [[notes/Pesquisadores/Arthur Fracaro Gonçalves|Arthur Fracaro Gonçalves]]

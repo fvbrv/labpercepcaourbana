@@ -7,13 +7,14 @@ tag:
 
 ## Região
 - [[notes/Locais de pesquisa/SC/Cidades/Florianopólis - SC|Florianópolis]], capital
-- Lages
-- Mesoregião
+- [[notes/Locais de pesquisa/SC/Cidades/Interior - SC|Interior - SC]]
+- [[notes/Locais de pesquisa/SC/Mesoregião Catarinense|Mesoregião Catarinense]]
 
 ## Trabalhos
 - [[notes/Produções/Projetos de Pesquisa/TransUrbanoGramas|TransUrbanoGramas]]
-- b
-- c
+- [[notes/Produções/Ruína, Resistência e Resiliência uma cartografia da Costa da Lagoa da Conceição em Florianópolis - SC|Ruína, Resistência e Resiliência uma cartografia da Costa da Lagoa da Conceição em Florianópolis - SC]]
+- [[notes/Produções/Arquiteturas Abandonadas em Santa Catarina uma cartografia das janelas|Arquiteturas Abandonadas em Santa Catarina Uma cartografia das janelas]]
+- [[notes/Produções/Arquiteturas de madeira uma cartografia de Lages-SC|Arquiteturas de madeira uma cartografia de Lages-SC]]
 
 ## Pesquisador
 - [[notes/Pesquisadores/Arthur Fracaro Gonçalves|Arthur Fracaro Gonçalves]]

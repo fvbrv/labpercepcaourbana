@@ -8,7 +8,9 @@ tag:
 Pesquisas no estado de [[notes/Locais de pesquisa/SC/Santa Catarina|Santa Catarina]]
 
 ## Trabalhos
-- a
+- [[notes/Produções/Ruína, Resistência e Resiliência uma cartografia da Costa da Lagoa da Conceição em Florianópolis - SC|Ruína, Resistência e Resiliência uma cartografia da Costa da Lagoa da Conceição em Florianópolis - SC]]
+- [[notes/Produções/Arquiteturas de madeira uma cartografia de Lages-SC|Arquiteturas de madeira uma cartografia de Lages-SC]]
+- [[notes/Produções/Arquiteturas Abandonadas em Santa Catarina uma cartografia das janelas|Arquiteturas Abandonadas em Santa Catarina Uma cartografia das janelas]]
 
 ## Pesquisadores
 - [[notes/Pesquisadores/Arthur Fracaro Gonçalves|Arthur Fracaro Gonçalves]]

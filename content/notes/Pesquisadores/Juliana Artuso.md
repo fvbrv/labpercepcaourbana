@@ -8,14 +8,18 @@ tags:
 
 ## Nome
 Juliana Artuso
+
 ## Formação
-a
+-
+
 ## Lattes
-a
+-
+
 ## Contato
-a
+-
+
 ## Trabalhos
-- **Experiências de Reconhecimento Urbano em São Paulo: Transurbanogramas do Minhocão**
+- Experiências de Reconhecimento Urbano em São Paulo: Transurbanogramas do Minhocão
 
 ### Capítulo em livro publicado
 

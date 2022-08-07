@@ -11,17 +11,22 @@ tags:
 
 ## Nome
 Lais da Silva Rodrigues
+
 ## Formação
 Arquiteta e Urbanista formada pela Universidade Paulista - UNIP, especialista em História da Arte pela Universidade Estácio de Sá - UNESA e mestranda em Arquitetura e Urbanismo pela Universidade Estadual Paulista “Júlio de Mesquita Filho” - UNESP Bauru.
+
 ## Lattes
 http://lattes.cnpq.br/5021449091062609
+
 ## Email e Contato
 [lais.s.rodrigues@unesp.br](mailto:lais.s.rodrigues@unesp.br) [laissrodrigues3@gmail.com](mailto:laissrodrigues3@gmail.com)
+
 ## Trabalhos
 - [[notes/Produções/Ourinhos história e patrimônio ferroviário e industrial|Ourinhos história e patrimônio ferroviário e industrial]]
 - [[notes/Produções/Araraquara história e patrimônio ferroviário e industrial|Araraquara história e patrimônio ferroviário e industrial]]
--  **Patrimônio ferroviário e industrial e a paisagem urbana de Araraquara-SP**
 - [[notes/Produções/Projetos de Pesquisa/ebook Cidade Inacabada ANAP|ebook Cidade Inacabada]]
+- **Patrimônio ferroviário e industrial e a paisagem urbana de Araraquara-SP**
+- [[notes/Produções/Walking as an intervention|Walking as an intervention]]
 
 ### Capítulos de livro publicado
 

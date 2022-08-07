@@ -9,13 +9,17 @@ tags:
 
 ## Nome
 Amarildo Marcos Soares Junior
+
 ## Formação
-a
+-
 ## Lattes
 http://lattes.cnpq.br/7207639678848227
+
 ## Email e Contato
-a
+-
+
 ## Trabalhos
+- [[notes/Produções/O Rio de Janeiro pela experiência de Frederico Morais|O Rio de Janeiro pela experiência de Frederico Morais]]
 
 ### Mestrado 
 

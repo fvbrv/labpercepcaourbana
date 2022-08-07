@@ -7,9 +7,11 @@ tag:
 - 2020
 ---
 ## Resumo
-- a
+-
+
 ## Pesquisador
 - [[notes/Pesquisadores/Lucas do Nascimento Souza|Lucas do Nascimento Souza]]
 - [[notes/Pesquisadores/Evandro Fiorin|Evandro Fiorin]]
+
 ### Ano
 - [[notes/Ano/2020|2020]]

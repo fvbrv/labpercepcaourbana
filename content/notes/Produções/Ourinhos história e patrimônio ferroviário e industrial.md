@@ -5,7 +5,7 @@ tag:
 - 2020
 ---
 ## Resumo
-- a
+-
 ## Pesquisador
 - [[notes/Pesquisadores/Lais da Silva Rodrigues|Lais da Silva Rodrigues]]
 - [[notes/Pesquisadores/Mariana Mamedes dos Santos|Mariana Mamedes dos Santos]]

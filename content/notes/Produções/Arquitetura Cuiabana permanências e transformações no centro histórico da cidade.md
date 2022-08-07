@@ -6,7 +6,8 @@ tag:
 ---
 
 ## Resumo
-- a
+-
+
 ## Pesquisador
 - [[notes/Pesquisadores/Kellen Melo Dorileo Louzich|Kellen Melo Dorileo Louzich]]
 - [[notes/Pesquisadores/Evandro Fiorin|Evandro Fiorin]]

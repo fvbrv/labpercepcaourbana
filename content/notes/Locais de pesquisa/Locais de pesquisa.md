@@ -5,8 +5,6 @@ tag:
 - localpesquisa
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
 ## Estados
 - [[notes/Locais de pesquisa/SP/São Paulo|São Paulo]]
 - [[notes/Locais de pesquisa/RJ/Rio de Janeiro - RJ|Rio de Janeiro]]

@@ -9,11 +9,15 @@ tags:
 
 ## Nome
 Matheus José Rigon
+
 ## Formação
-- a
+ -
+ 
 ## Lattes
-a
+-
+
 ## Email e Contato
-a
+-
+
 ## Trabalhos
-a
+-

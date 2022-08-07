@@ -8,14 +8,18 @@ tags:
 
 ## Nome
 Kellen Melo Dorileo Louzich
+
 ## Formação
 Artista Plástica, Mestre em Arquitetura e Urbanismo/ Universidade Federal de Santa Catarina - UFSC. Arquiteta e Urbanista/ Universidade do Mato Grosso - UFMT
+
 ## Lattes
 http://lattes.cnpq.br/1928482851339357
+
 ## Email e Contato
-[kellendorileo@gmail.com](mailto:kellendorileo@gmail.com)/ (65) 98113-3621
+[kellendorileo@gmail.com](mailto:kellendorileo@gmail.com)
+
 ## Trabalhos
-- [[notes/Produções/Permanências e transformações do Centro Histórico de Cuiabá]]
+- [[notes/Produções/Permanências e transformações do Centro Histórico de Cuiabá|Permanências e transformações do Centro Histórico de Cuiabá]]
 - [[notes/Produções/Arquitetura Cuiabana permanências e transformações no centro histórico da cidade|Arquitetura Cuiabana permanências e transformações no centro histórico da cidade]]
 
 ### Capítulo de livro publicado

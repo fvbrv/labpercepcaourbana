@@ -7,10 +7,10 @@ tags:
 ---
 
 ## Sobre a revista
-- a
+- -
 
 ## Anos
 - [[notes/Ano/2021|2021]]
 
 ## Trabalhos
-- a
+- -

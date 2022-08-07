@@ -5,8 +5,6 @@ tags:
 - ebook
 ---
 
-## Ano
-- [[notes/Ano/2021|2021]]
 ## Apresentação
 
 Este e-book é resultado de um esforço conjunto dos integrantes 
@@ -66,3 +64,6 @@ pre em processo.
 - [[notes/Pesquisadores/Arthur Fracaro Gonçalves|Arthur Fracaro Gonçalves]]
 - [[notes/Pesquisadores/Matheus Alcântara Silva Chaparim|Matheus Alcântara Silva Chaparim]]
 - [[notes/Pesquisadores/Paula Gabbi Polli|Paula Gabbi Polli]]
+
+## Ano
+- [[notes/Ano/2021|2021]]

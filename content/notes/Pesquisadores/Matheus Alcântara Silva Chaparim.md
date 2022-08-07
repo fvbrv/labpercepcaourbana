@@ -8,13 +8,18 @@ tags:
 
 ## Nome
 Matheus Alcantara Silva Chaparim
+
 ## Formação
-a
+-
+
 ## Lattes
 [http://lattes.cnpq.br/3733094266035366](http://lattes.cnpq.br/3733094266035366)
+
 ## Email e Contato
-a
+-
+
 ## Trabalhos
+
 
 ### Livros publicados 
 

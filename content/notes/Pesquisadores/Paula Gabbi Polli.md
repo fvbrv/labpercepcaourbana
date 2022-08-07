@@ -5,14 +5,17 @@ tag:
 - egresso
 ---
 
-#pesquisador #grupop4 #egresso
-
-# Nome
+## Nome
 Paula Gabbi Polli
-# Formação
-a
-# Lattes
-a
-# Email e Contato
-a
-# Trabalhos
+
+## Formação
+-
+
+## Lattes
+-
+
+## Email e Contato
+-
+
+## Trabalhos
+-
