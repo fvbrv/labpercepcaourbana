@@ -8,7 +8,7 @@ tag:
 #locaisdepesquisa #maceio
 
 ## Trabalhos
-- Patrimônio arquitetônico e urbano do bairro Jaraguá, Maceió/AL
+- [[notes/Produções/Patrimônio arquitetônico e urbano do bairro Jaraguá|Patrimônio arquitetônico e urbano do bairro Jaraguá - AL]]
 
 ## Pesquisador
 - [[notes/Pesquisadores/Heber Macel Tenório Vasconcelos|Heber Macel Tenório Vasconcelos]]

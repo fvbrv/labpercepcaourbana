@@ -17,6 +17,7 @@ http://lattes.cnpq.br/5599203800231511
 [evandro.fiorin@ufsc.br](mailto:evandro.fiorin@ufsc.br)
 
 ## Trabalhos
+- [[notes/Produções/Nômades as práticas errantes no ensino, na pesquisa e na extensão em arquitetura e urbanismo por um (re)conhecimento urbano|Nômades as práticas errantes no ensino, na pesquisa e na extensão em arquitetura e urbanismo por um (re)conhecimento urbano]]
 - [[notes/Produções/Projetos de Pesquisa/TransUrbanoGramas|TransUrbanoGramas]]
 - [[notes/Produções/Projetos de Pesquisa/Terras Baldias|Terras Baldias]]
 - [[notes/Produções/Projetos de Pesquisa/ebook Cidade Inacabada ANAP|ebook Cidade Inacabada]]
@@ -33,6 +34,7 @@ http://lattes.cnpq.br/5599203800231511
 - [[notes/Produções/Permanências e transformações do Centro Histórico de Cuiabá|Permanências e transformações do Centro Histórico de Cuiabá]]
 - [[notes/Produções/Ruína, Resistência e Resiliência uma cartografia da Costa da Lagoa da Conceição em Florianópolis - SC|Ruína, Resistência e Resiliência uma cartografia da Costa da Lagoa da Conceição em Florianópolis - SC]]
 - [[notes/Produções/Walking as an intervention|Walking as an intervention]]
+- [[notes/Produções/Patrimônio arquitetônico e urbano do bairro Jaraguá|Patrimônio arquitetônico e urbano do bairro Jaraguá - AL]]
 
 
 ### Projetos de pesquisa

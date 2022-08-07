@@ -21,6 +21,7 @@ http://lattes.cnpq.br/1290805936456727
 [macel.vasconcelos@ifrn.edu.br](mailto:macel.vasconcelos@ifrn.edu.br)
 
 ## Trabalhos
+- [[notes/Produções/Patrimônio arquitetônico e urbano do bairro Jaraguá|Patrimônio arquitetônico e urbano do bairro Jaraguá - AL]]
 
 ### Trabalhos em anais de congresso
 

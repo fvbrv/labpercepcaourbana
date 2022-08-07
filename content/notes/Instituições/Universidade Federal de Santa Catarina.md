@@ -18,6 +18,7 @@ tag:
 - [[notes/Produções/Permanências e transformações do Centro Histórico de Cuiabá|Permanências e transformações do Centro Histórico de Cuiabá]]
 - [[notes/Produções/Arquitetura Cuiabana permanências e transformações no centro histórico da cidade|Arquitetura Cuiabana permanências e transformações no centro histórico da cidade]]
 - [[notes/Produções/O Rio de Janeiro pela experiência de Frederico Morais|O Rio de Janeiro pela experiência de Frederico Morais]]
+- [[notes/Produções/Patrimônio arquitetônico e urbano do bairro Jaraguá|Patrimônio arquitetônico e urbano do bairro Jaraguá - AL]]
 
 ## Pesquisadores
 - [[notes/Pesquisadores/Amarildo Marcos Soares Junior|Amarildo Marcos Soares Junior]]
@@ -31,3 +32,4 @@ tag:
 - [[notes/Pesquisadores/Amarildo Marcos Soares Junior|Amarildo Marcos Soares Junior]]
 - [[notes/Pesquisadores/Kellen Melo Dorileo Louzich|Kellen Melo Dorileo Louzich]]
 - [[notes/Pesquisadores/Matheus José Rigon|Matheus José Rigon]]
+- [[notes/Pesquisadores/Heber Macel Tenório Vasconcelos|Heber Macel Tenório Vasconcelos]]
