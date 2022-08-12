@@ -1,4 +1,4 @@
-<h3>Backlinks</h3>
+<h4>Acesse também</h4>
 <ul class="backlinks">
     {{$url := urls.Parse .Site.BaseURL }}
     {{$host := strings.TrimRight "/" $url.Path }}
@@ -24,7 +24,7 @@
     {{- end -}}
     {{else}}
     <li>
-        No backlinks found
+        Sem recomendações
     </li>
     {{end}}
 </ul>

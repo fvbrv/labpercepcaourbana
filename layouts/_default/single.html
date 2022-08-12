@@ -8,9 +8,9 @@
     <!-- Begin actual content -->
     {{partial "header.html" .}}
     <article>
-      {{if .Title}}<h1>{{ .Title }}</h1>{{end}}
+      {{if .Title}}<h2>{{ .Title }}</h2>{{end}}
       <p class="meta">
-          Last updated {{ partial "date-fmt.html" .}} 
+          Última atualização em {{ partial "date-fmt.html" .}} 
           {{ partial "github.html" . }}
       </p>
       <ul class="tags">
