@@ -8,7 +8,11 @@ tags:
 ## Nome
 Evandro Fiorin
 ## Formação
-null
+Graduação em Arquitetura e Urbanismo (Faculdade de Arquitetura, Artes e Comunicação da UNESP - Universidade Estadual Paulista - Campus de Bauru-SP). Mestrado em Arquitetura e Urbanismo (Instituto de Arquitetura e Urbanismo da Universidade de São Paulo (2003); Doutorado em Arquitetura e Urbanismo - área: Projeto, Espaço e Cultura, pela Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo (2009); e estágio de pós-doutorado na Faculdade de Arquitectura da Universidade do Porto (2014-2015), em Portugal, sob a tutoria do Prof. Associado Álvaro Domingues. Pesquisador em Visita Técnica à Universidade Roma Tre (2020), na Itália, para o desenvolvimento de pesquisas com o Prof. Associado Francesco Careri.
+
+**atuação**
+
+Professor Adjunto do Departamento de Arquitetura e Urbanismo da (Universidade Federal de Santa Catarina – UFSC). Professor externo Programa de Pós-Graduação em Arquitetura e Urbanismo da Faculdade de Arquitetura, Artes e Comunicação (Universidade Estadual Paulista Júlio de Mesquita Filho UNESP – Bauru).
 
 ## Lattes
 http://lattes.cnpq.br/5599203800231511
