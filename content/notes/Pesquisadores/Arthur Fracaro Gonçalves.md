@@ -21,8 +21,9 @@ Graduando em Arquitetura e Urbanismo/ Universidade Federal de Santa Catarina - U
 [arthurfracaro@hotmail.com](mailto:arthurfracaro@hotmail.com)
 
 ## Trabalhos
-- [[notes/Produções/Projetos de Pesquisa/TransUrbanoGramas|TransUrbanoGramas]]: experiências de reconhecimento urbano no centro expandido de Florianópolis. 
-- [[notes/Produções/Projetos de Pesquisa/ebook Cidade Inacabada ANAP|ebook Cidade Inacabada]]
+- [[notes/Produções/Projetos de Pesquisa/TransUrbanoGramas Trajetos, Territórios e suas Traduções experiências de reconhecimento urbano|TransUrbanoGramas]]: experiências de reconhecimento urbano no centro expandido de Florianópolis. 
+- [[notes/Produções/Projetos de Pesquisa/A Cidade Inacabada|A Cidade Inacabada]]
+- [[notes/Produções/Projetos de Pesquisa/Terras Baldias projeto inconcluso para uma cidade inacabada|Terras Baldias: projeto inconcluso para uma cidade inacabada]]
 
 ### Iniciação científica
 

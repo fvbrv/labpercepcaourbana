@@ -21,7 +21,8 @@ http://lattes.cnpq.br/2483094827584327
 [igordemarch@hotmail.com](mailto:igordemarch@hotmail.com)
 
 ## Trabalhos
-- [[notes/Produções/Projetos de Pesquisa/TransUrbanoGramas|TransUrbanoGramas]] 
+- [[notes/Produções/Projetos de Pesquisa/TransUrbanoGramas Trajetos, Territórios e suas Traduções experiências de reconhecimento urbano|TransUrbanoGramas Trajetos, Territórios e suas Traduções experiências de reconhecimento urbano]] 
+- [[notes/Produções/Projetos de Pesquisa/Terras Baldias projeto inconcluso para uma cidade inacabada|Terras Baldias: projeto inconcluso para uma cidade inacabada]]
 
 ### Capítulos de livros publicados 
 

@@ -23,6 +23,7 @@ http://lattes.cnpq.br/9200565420988518
 
 ## Trabalhos
 - [[notes/Produções/Patrimônio Ferroviário da estação Samaritá em São Vicente - SP|Patrimônio Ferroviário da estação Samaritá em São Vicente - SP]] 
+- [[notes/Produções/Projetos de Pesquisa/Terras Baldias projeto inconcluso para uma cidade inacabada|Terras Baldias: projeto inconcluso para uma cidade inacabada]]
 
 ### Trabalhos completos publicados em anais de congresso
 

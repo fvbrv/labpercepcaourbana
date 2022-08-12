@@ -19,4 +19,4 @@ http://lattes.cnpq.br/0094005079812348
 -
 
 ## Trabalhos
--
+- [[notes/Produções/Projetos de Pesquisa/Terras Baldias projeto inconcluso para uma cidade inacabada|Terras Baldias: projeto inconcluso para uma cidade inacabada]]

@@ -22,6 +22,8 @@ http://lattes.cnpq.br/1290805936456727
 
 ## Trabalhos
 - [[notes/Produções/Patrimônio arquitetônico e urbano do bairro Jaraguá|Patrimônio arquitetônico e urbano do bairro Jaraguá - AL]]
+- [[notes/Produções/Projetos de Pesquisa/A Cidade Inacabada|A Cidade Inacabada]]
+- [[notes/Produções/Projetos de Pesquisa/Terras Baldias projeto inconcluso para uma cidade inacabada|Terras Baldias: projeto inconcluso para uma cidade inacabada]]
 
 ### Trabalhos em anais de congresso
 

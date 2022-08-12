@@ -23,6 +23,7 @@ Especialista em Ferramentas de Gestão e Projetos BIM (IPOG Florianópolis-SC) |
 
 ## Trabalhos
 - [[notes/Produções/Arquiteturas de madeira uma cartografia de Lages-SC|Arquiteturas de madeira uma cartografia de Lages-SC]]
+- [[notes/Produções/Projetos de Pesquisa/Terras Baldias projeto inconcluso para uma cidade inacabada|Terras Baldias: projeto inconcluso para uma cidade inacabada]]
 
 ### Trabalhos completos publicados em anais de congresso
 

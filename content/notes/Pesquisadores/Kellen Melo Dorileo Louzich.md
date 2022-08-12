@@ -21,6 +21,8 @@ http://lattes.cnpq.br/1928482851339357
 ## Trabalhos
 - [[notes/Produções/Permanências e transformações do Centro Histórico de Cuiabá|Permanências e transformações do Centro Histórico de Cuiabá]]
 - [[notes/Produções/Arquitetura Cuiabana permanências e transformações no centro histórico da cidade|Arquitetura Cuiabana permanências e transformações no centro histórico da cidade]]
+- [[notes/Produções/Projetos de Pesquisa/A Cidade Inacabada|A Cidade Inacabada]]
+- [[notes/Produções/Projetos de Pesquisa/Terras Baldias projeto inconcluso para uma cidade inacabada|Terras Baldias: projeto inconcluso para uma cidade inacabada]]
 
 ### Capítulo de livro publicado
 

@@ -24,6 +24,7 @@ mamedesmariana@gmail.com
 ## Trabalhos
 - Patrimônio Ferroviário e Industrial de Ourinhos (SP): história e preservação
 - [[notes/Produções/Ourinhos história e patrimônio ferroviário e industrial|Ourinhos história e patrimônio ferroviário e industrial]]
+- [[notes/Produções/Projetos de Pesquisa/Terras Baldias projeto inconcluso para uma cidade inacabada|Terras Baldias: projeto inconcluso para uma cidade inacabada]]
 
 ### Capítulo de livros publicados
 

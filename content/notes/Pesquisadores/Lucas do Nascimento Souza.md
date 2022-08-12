@@ -22,6 +22,8 @@ arqlucasnascimento@gmail.com
 ## Trabalhos
 - [[notes/Produções/Patrimônio, Marginalidade e Gentrificação ao longo do antigo leito férreo de Bauru-SP|Patrimônio, Marginalidade e Gentrificação ao longo do antigo leito férreo de Bauru-SP]]
 - [[notes/Produções/Walking as an intervention|Walking as an intervention]]
+- [[notes/Produções/Projetos de Pesquisa/A Cidade Inacabada|A Cidade Inacabada]]
+- [[notes/Produções/Projetos de Pesquisa/Terras Baldias projeto inconcluso para uma cidade inacabada|Terras Baldias: projeto inconcluso para uma cidade inacabada]]
 
 ### Capítulo de livro publicado
 

@@ -20,6 +20,7 @@ http://lattes.cnpq.br/5224900327031264
 
 ## Trabalhos
 - [[notes/Produções/Arquiteturas Abandonadas em Santa Catarina uma cartografia das janelas|Arquiteturas Abandonadas em Santa Catarina uma cartografia das janelas]]
+- [[notes/Produções/Projetos de Pesquisa/Terras Baldias projeto inconcluso para uma cidade inacabada|Terras Baldias: projeto inconcluso para uma cidade inacabada]]
 
 ### Doutorado em andamento
 

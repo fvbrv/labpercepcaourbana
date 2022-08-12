@@ -22,8 +22,9 @@ http://lattes.cnpq.br/4936423096733548
 [freitas_djonathan@hotmail.com](mailto:freitas_djonathan@hotmail.com)
 
 ## Trabalhos
-- [[notes/Produções/Projetos de Pesquisa/ebook Cidade Inacabada ANAP| ebook Cidade Inacabada ANAP]]
+- [[notes/Produções/Projetos de Pesquisa/A Cidade Inacabada| A Cidade Inacabada]]
 - [[notes/Produções/Ruína, Resistência e Resiliência uma cartografia da Costa da Lagoa da Conceição em Florianópolis - SC|Ruína, Resistência e Resiliência uma cartografia da Costa da Lagoa da Conceição em Florianópolis - SC]]
+- [[notes/Produções/Projetos de Pesquisa/Terras Baldias projeto inconcluso para uma cidade inacabada|Terras Baldias: projeto inconcluso para uma cidade inacabada]]
  
 ### Mestrado em andamento 
 

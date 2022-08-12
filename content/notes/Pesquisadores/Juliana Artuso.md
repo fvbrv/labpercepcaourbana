@@ -19,7 +19,9 @@ Juliana Artuso
 -
 
 ## Trabalhos
+- [[notes/Produções/Projetos de Pesquisa/TransUrbanoGramas Trajetos, Territórios e suas Traduções experiências de reconhecimento urbano|TransUrbanoGramas Trajetos, Territórios e suas Traduções experiências de reconhecimento urbano]]
 - Experiências de Reconhecimento Urbano em São Paulo: Transurbanogramas do Minhocão
+- [[notes/Produções/Projetos de Pesquisa/Terras Baldias projeto inconcluso para uma cidade inacabada|Terras Baldias: projeto inconcluso para uma cidade inacabada]]
 
 ### Capítulo em livro publicado
 

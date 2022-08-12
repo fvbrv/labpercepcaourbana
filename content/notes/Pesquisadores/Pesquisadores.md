@@ -16,7 +16,7 @@ tags:
 - Hélio Hirao - Professor Doutor UNESP
 
 #### Projetos em andamento
-- [[notes/Produções/Projetos de Pesquisa/Terras Baldias|Terras Baldias: projeto inconcluso para uma cidade inacabada]]
+- [[notes/Produções/Projetos de Pesquisa/Terras Baldias projeto inconcluso para uma cidade inacabada|Terras Baldias: projeto inconcluso para uma cidade inacabada]]
 
 ##### 🟢 Pesquisadores ativos
 - [[notes/Pesquisadores/Arthur Fracaro Gonçalves|Arthur Fracaro Gonçalves]] - UFSC

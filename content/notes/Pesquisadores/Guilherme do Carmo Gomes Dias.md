@@ -21,6 +21,7 @@ arq.gdias@gmail.com
 
 ## Trabalhos
 - [[notes/Produções/Caminhografias no Minhocão em São Paulo|Caminhografias no Minhocão em São Paulo]]
+- [[notes/Produções/Projetos de Pesquisa/A Cidade Inacabada| A Cidade Inacabada]]
 
 ### Artigos completos publicados
 

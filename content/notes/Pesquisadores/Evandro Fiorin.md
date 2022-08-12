@@ -7,6 +7,7 @@ tags:
 
 ## Nome
 Evandro Fiorin
+
 ## Formação
 Graduação em Arquitetura e Urbanismo (Faculdade de Arquitetura, Artes e Comunicação da UNESP - Universidade Estadual Paulista - Campus de Bauru-SP). Mestrado em Arquitetura e Urbanismo (Instituto de Arquitetura e Urbanismo da Universidade de São Paulo (2003); Doutorado em Arquitetura e Urbanismo - área: Projeto, Espaço e Cultura, pela Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo (2009); e estágio de pós-doutorado na Faculdade de Arquitectura da Universidade do Porto (2014-2015), em Portugal, sob a tutoria do Prof. Associado Álvaro Domingues. Pesquisador em Visita Técnica à Universidade Roma Tre (2020), na Itália, para o desenvolvimento de pesquisas com o Prof. Associado Francesco Careri.
 
@@ -21,10 +22,15 @@ http://lattes.cnpq.br/5599203800231511
 [evandro.fiorin@ufsc.br](mailto:evandro.fiorin@ufsc.br)
 
 ## Trabalhos
+
+### Livros publicados
 - [[notes/Produções/Nômades as práticas errantes no ensino, na pesquisa e na extensão em arquitetura e urbanismo por um (re)conhecimento urbano|Nômades as práticas errantes no ensino, na pesquisa e na extensão em arquitetura e urbanismo por um (re)conhecimento urbano]]
-- [[notes/Produções/Projetos de Pesquisa/TransUrbanoGramas|TransUrbanoGramas]]
-- [[notes/Produções/Projetos de Pesquisa/Terras Baldias|Terras Baldias]]
-- [[notes/Produções/Projetos de Pesquisa/ebook Cidade Inacabada ANAP|ebook Cidade Inacabada]]
+- [[notes/Produções/Projetos de Pesquisa/TransUrbanoGramas Trajetos, Territórios e suas Traduções experiências de reconhecimento urbano|TransUrbanoGramas Trajetos, Territórios e suas Traduções experiências de reconhecimento urbano]]
+- [[notes/Produções/Caminhar como estrangeiro em terras de descobrimento Processos de percepção da arquitetura e urbanismo contemporâneos|Caminhar como estrangeiro em terras de descobrimento: Processos de percepção da arquitetura e urbanismo contemporâneos]]
+- [[notes/Produções/Projetos de Pesquisa/A Cidade Inacabada|A Cidade Inacabada]]
+
+### Projetos de pesquisa
+- ⭐ [[notes/Produções/Projetos de Pesquisa/Terras Baldias projeto inconcluso para uma cidade inacabada|Terras Baldias projeto inconcluso para uma cidade inacabada]]
 - [[notes/Produções/Araraquara história e patrimônio ferroviário e industrial|Araraquara história e patrimônio ferroviário e industrial]]
 - [[notes/Produções/Arquiteturas Abandonadas em Santa Catarina uma cartografia das janelas|Arquiteturas Abandonadas em Santa Catarina uma cartografia das janelas]]
 - [[notes/Produções/Arquitetura Cuiabana permanências e transformações no centro histórico da cidade|Arquitetura Cuiabana permanências e transformações no centro histórico da cidade]]

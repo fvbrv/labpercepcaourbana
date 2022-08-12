@@ -24,9 +24,10 @@ http://lattes.cnpq.br/5021449091062609
 ## Trabalhos
 - [[notes/Produções/Ourinhos história e patrimônio ferroviário e industrial|Ourinhos história e patrimônio ferroviário e industrial]]
 - [[notes/Produções/Araraquara história e patrimônio ferroviário e industrial|Araraquara história e patrimônio ferroviário e industrial]]
-- [[notes/Produções/Projetos de Pesquisa/ebook Cidade Inacabada ANAP|ebook Cidade Inacabada]]
+- [[notes/Produções/Projetos de Pesquisa/A Cidade Inacabada|A Cidade Inacabada]]
 - **Patrimônio ferroviário e industrial e a paisagem urbana de Araraquara-SP**
 - [[notes/Produções/Walking as an intervention|Walking as an intervention]]
+- [[notes/Produções/Projetos de Pesquisa/Terras Baldias projeto inconcluso para uma cidade inacabada|Terras Baldias: projeto inconcluso para uma cidade inacabada]]
 
 ### Capítulos de livro publicado
 

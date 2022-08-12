@@ -20,6 +20,7 @@ http://lattes.cnpq.br/7207639678848227
 
 ## Trabalhos
 - [[notes/Produções/O Rio de Janeiro pela experiência de Frederico Morais|O Rio de Janeiro pela experiência de Frederico Morais]]
+- [[notes/Produções/Projetos de Pesquisa/Terras Baldias projeto inconcluso para uma cidade inacabada|Terras Baldias: projeto inconcluso para uma cidade inacabada]]
 
 ### Mestrado 
 
