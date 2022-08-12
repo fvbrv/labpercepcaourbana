@@ -1,5 +1,5 @@
-name: GRUPO P4
-enableToc: true
+name: Grupo P4
+enableToc: false
 openToc: true
 enableLinkPreview: false
 enableLatex: true
@@ -16,11 +16,6 @@ description:
   Página do Laboratório de Percepção Urbana da Universidade Federal de Santa Catarina.
 page_title:
   "Laboratório Percepção Urbana"
-links:
-  - link_name: Wix
-    link: https://grupopesquisap4.wixsite.com/website
-  - link_name: UFSC
-    link: https://posarq.ufsc.br
 favicon:
   <link rel="shortcut icon" href="icone4.png" type="image/png">
 

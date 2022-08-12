@@ -1,5 +1,5 @@
 ---
-title: "Projetos de pesquisa"
+title: "Pesquisas"
 tag:
 - projetosdepesquisa
 - 2022

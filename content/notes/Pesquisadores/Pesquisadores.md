@@ -1,15 +1,18 @@
 ---
-title: "Grupo de Pesquisa de Projeto, Patrimônio, Percepção e Paisagem"
+title: "Grupo P4"
 tags: 
 - pesquisadores
 ---
 
 ![P4_Grupo de Pesquisa_01.png](https://static.wixstatic.com/media/0ab488_6e96564f125d494bbc15738fe29c53d6~mv2.png/v1/fill/w_237,h_66,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/P4_Grupo%20de%20Pesquisa_01.png)
 
+> Somos o Grupo de Pesquisa de Projeto, Patrimônio, Percepção e Paisagem do Programa de Pós Graduação em Arquitetura e Urbanismo da Universidade Federal de Santa Catarina.
+
+
 ### Coordenador
 - [[notes/Pesquisadores/Evandro Fiorin|Evandro Fiorin]] - Professor Doutor UFSC
 
-### Pesquisador externo ao grupo P4
+### Pesquisador externo ao Grupo P4
 - Hélio Hirao - Professor Doutor UNESP
 
 #### Projetos em andamento
