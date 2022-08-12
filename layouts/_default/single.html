@@ -10,7 +10,7 @@
     <article>
       {{if .Title}}<h2>{{ .Title }}</h2>{{end}}
       <p class="meta">
-          Última atualização em {{ partial "date-fmt.html" .}} 
+          Última atualização: {{ partial "date-fmt.html" .}} 
           {{ partial "github.html" . }}
       </p>
       <ul class="tags">
