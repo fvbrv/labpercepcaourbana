@@ -19,7 +19,7 @@ tag:
 - [[notes/Livros/Cartografias da Cidade|Cartografias da Cidade]]
 - [[notes/Produções/Caminhar como estrangeiro em terras de descobrimento Processos de percepção da arquitetura e urbanismo contemporâneos|Caminhar como estrangeiro em terras de descobrimento: Processos de percepção da arquitetura e urbanismo contemporâneos]]
 
-### Capítulos de livro
+### Capítulos de livro publicados
 - [[notes/Produções/Patrimônio Ferroviário e Industrial de Ourinhos (SP) história e preservação|Patrimônio Ferroviário e Industrial de Ourinhos (SP): história e preservação]]
 - [[notes/Produções/Patrimônio ferroviário e industrial e a paisagem urbana de Araraquara-SP|Patrimônio ferroviário e industrial e a paisagem urbana de Araraquara-SP]]
 - [[notes/Produções/Patrimônio, Marginalidade e Gentrificação ao longo do antigo leito férreo de Bauru-SP|Patrimônio, Marginalidade e Gentrificação ao longo do antigo leito férreo de Bauru-SP]]
