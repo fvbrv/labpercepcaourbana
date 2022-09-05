@@ -5,6 +5,8 @@ tags:
 - ebook
 ---
 
+![[notes/Livros/Pasted image 20220904172134.png]]
+
 ## Apresentação
 
 Este e-book é o resultado do nosso estágio de pós-doutorado, realizado na Faculdade de Arquitectura da 
@@ -20,8 +22,15 @@ para a realização de futuros projetos experimentais em arquitetura e urbanismo
 
 **Prof. Dr. Evandro Fiorin**
 
-## Integrantes
+## Ficha Técnica
+
+**Autores:**
 - [[notes/Pesquisadores/Evandro Fiorin|Evandro Fiorin]]
 
-## Ano
-- [[notes/Ano/2020|2020]]
+**Ano:** [[notes/Ano/2020|2020]]
+
+**Nº Páginas: 128**
+
+**Ref: ISBN: 978-65-86753-01-1**
+
+[Download](https://www.estantedaanap.org/product-page/caminhar-como-estrangeiro-em-terras-de-descobrimentos)

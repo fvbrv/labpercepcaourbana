@@ -5,10 +5,8 @@ tag:
 - capitalal
 ---
 
-#locaisdepesquisa #maceio
-
 ## Trabalhos
-- [[notes/Produções/Patrimônio arquitetônico e urbano do bairro Jaraguá|Patrimônio arquitetônico e urbano do bairro Jaraguá - AL]]
+-  [[notes/Produções/Arquitetura, urbanismo e história do bairro Jaraguá, Maceió|Arquitetura, urbanismo e história do bairro Jaraguá, Maceió/AL]]
 
 ## Pesquisador
 - [[notes/Pesquisadores/Heber Macel Tenório Vasconcelos|Heber Macel Tenório Vasconcelos]]

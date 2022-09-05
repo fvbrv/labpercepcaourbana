@@ -7,9 +7,9 @@ tag:
 
 ## Cidades
 - [[notes/Locais de pesquisa/SP/Cidades/Araraquara - SP|Araraquara]]
-- [[notes/Locais de pesquisa/SP/Cidades/Candido Mota - SP|Candido Mota]]
-- [[notes/Locais de pesquisa/SP/Cidades/São Carlos - SP|São Carlos]]
 - [[notes/Locais de pesquisa/SP/Cidades/Bauru - SP|Bauru]]
+- [[notes/Locais de pesquisa/SP/Cidades/São Carlos - SP|São Carlos]]
+- [[notes/Locais de pesquisa/SP/Cidades/Ourinhos - SP|Ourinhos]]
 
 ## Pesquisador
 - [[notes/Pesquisadores/Mariana Mamedes dos Santos|Mariana Mamedes dos Santos]]

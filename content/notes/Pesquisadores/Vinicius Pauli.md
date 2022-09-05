@@ -1,4 +1,4 @@
----
+]---
 title: "Vinicius Pauli"
 tags: 
 - pesquisadores
@@ -16,6 +16,7 @@ http://lattes.cnpq.br/0524051648561557
 
 ## Email e Contato
 [vinicius.pauli99@gmail.com](mailto:vinicius.pauli99@gmail.com)
+
 ## Trabalhos
 
 ### Iniciação científica 

@@ -24,81 +24,70 @@ http://lattes.cnpq.br/5599203800231511
 ## Trabalhos
 
 ### Livros publicados
-- [[notes/Produções/Nômades as práticas errantes no ensino, na pesquisa e na extensão em arquitetura e urbanismo por um (re)conhecimento urbano|Nômades as práticas errantes no ensino, na pesquisa e na extensão em arquitetura e urbanismo por um (re)conhecimento urbano]]
-- [[notes/Produções/Projetos de Pesquisa/TransUrbanoGramas Trajetos, Territórios e suas Traduções experiências de reconhecimento urbano|TransUrbanoGramas Trajetos, Territórios e suas Traduções experiências de reconhecimento urbano]]
+- [[notes/Livros/Cidades do Noroeste Paulista|Cidades do Noroeste Paulista]]
 - [[notes/Produções/Caminhar como estrangeiro em terras de descobrimento Processos de percepção da arquitetura e urbanismo contemporâneos|Caminhar como estrangeiro em terras de descobrimento: Processos de percepção da arquitetura e urbanismo contemporâneos]]
 - [[notes/Produções/Projetos de Pesquisa/A Cidade Inacabada|A Cidade Inacabada]]
+- [[notes/Livros/Cartografias da Cidade|Cartografias da Cidade]]
 
 ### Projetos de pesquisa
-- ⭐ [[notes/Produções/Projetos de Pesquisa/Terras Baldias projeto inconcluso para uma cidade inacabada|Terras Baldias projeto inconcluso para uma cidade inacabada]]
-- [[notes/Produções/Araraquara história e patrimônio ferroviário e industrial|Araraquara história e patrimônio ferroviário e industrial]]
-- [[notes/Produções/Arquiteturas Abandonadas em Santa Catarina uma cartografia das janelas|Arquiteturas Abandonadas em Santa Catarina uma cartografia das janelas]]
-- [[notes/Produções/Arquitetura Cuiabana permanências e transformações no centro histórico da cidade|Arquitetura Cuiabana permanências e transformações no centro histórico da cidade]]
-- [[notes/Produções/Arquiteturas de madeira uma cartografia de Lages-SC|Arquiteturas de madeira uma cartografia de Lages-SC]]
-- [[notes/Produções/Caminhografias no Minhocão em São Paulo|Caminhografias no Minhocão em São Paulo]]
-- [[notes/Produções/O caminhar como modalidade de pesquisa três percursos de Francesco Careri em São Paulo - SP|O caminhar como modalidade de pesquisa três percursos de Francesco Careri em São Paulo - SP]]
-- [[notes/Produções/O Rio de Janeiro pela experiência de Frederico Morais|O Rio de Janeiro pela experiência de Frederico Morais]]
-- [[notes/Produções/Ourinhos história e patrimônio ferroviário e industrial|Ourinhos história e patrimônio ferroviário e industrial]]
-- [[notes/Produções/Patrimônio Ferroviário da estação Samaritá em São Vicente - SP|Patrimônio Ferroviário da estação Samaritá em São Vicente - SP]]
-- [[notes/Produções/Patrimônio, Marginalidade e Gentrificação ao longo do antigo leito férreo de Bauru-SP|Patrimônio, Marginalidade e Gentrificação ao longo do antigo leito férreo de Bauru-SP]]
-- [[notes/Produções/Permanências e transformações do Centro Histórico de Cuiabá|Permanências e transformações do Centro Histórico de Cuiabá]]
-- [[notes/Produções/Ruína, Resistência e Resiliência uma cartografia da Costa da Lagoa da Conceição em Florianópolis - SC|Ruína, Resistência e Resiliência uma cartografia da Costa da Lagoa da Conceição em Florianópolis - SC]]
-- [[notes/Produções/Walking as an intervention|Walking as an intervention]]
-- [[notes/Produções/Patrimônio arquitetônico e urbano do bairro Jaraguá|Patrimônio arquitetônico e urbano do bairro Jaraguá - AL]]
+- [[notes/Produções/Projetos de Pesquisa/Terras Baldias projeto inconcluso para uma cidade inacabada|Terras Baldias projeto inconcluso para uma cidade inacabada]]
+- [[notes/Produções/Projetos de Pesquisa/TransUrbanoGramas Trajetos, Territórios e suas Traduções experiências de reconhecimento urbano|TransUrbanoGramas Trajetos, Territórios e suas Traduções experiências de reconhecimento urbano]] (Projeto Contemplado no Edital IC: PIBITI-UFSC 2019/20 e 2020/21) e (Fomento Fluxo Contínuo AVG-CNPq 2020 Processo: 452736/2019-6).
 
+ ### Artigos completos publicados em periódicos
 
-### Projetos de pesquisa
-
-2021-Atual  **Terras Baldias: projeto inconcluso para uma cidade inacabada**
-
-2018-21 **TransUrbanoGramas**. Trajetos, Territórios e suas Traduções: experiências de reconhecimento urbano (Projeto Contemplado no Edital IC: PIBITI-UFSC 2019/20 e 2020/21) e (Fomento Fluxo Contínuo AVG-CNPq 2020 Processo: 452736/2019-6)
+[FIORIN, E.](http://lattes.cnpq.br/5599203800231511). **[[notes/Produções/Nômades as práticas errantes no ensino, na pesquisa e na extensão em arquitetura e urbanismo por um (re)conhecimento urbano|Nômades: as práticas errantes no ensino, na pesquisa e na extensão em arquitetura e urbanismo: por um (re)conhecimento urbano]]**. Risco: Revista de Pesquisa em Arquitetura e Urbanismo (on line), v. 20, p. 203-222, 2022.
   
+[FIORIN, EVANDRO](http://lattes.cnpq.br/5599203800231511). **[[notes/Produções/Florianópolis debaixo da ponte, em cima do morro e no muro da rua entre grafites e lugares à margem|Florianópolis: debaixo da ponte, em cima do morro e no muro da rua: entre grafites e lugares à margem]] | Florianópolis: under the bridge, over the hill and on the wall: among graffiti and marginal places**. OCULUM ENSAIOS, v. 18, p. 1-20, 2021.
 
-### Artigos completos publicados em periódicos
+[FIORIN, E.](http://lattes.cnpq.br/5599203800231511); [VASCONCELOS, H. M. T.](http://lattes.cnpq.br/1290805936456727) . **[[notes/Produções/Caminhar e Parar com Francesco Careri uma Pedagogia Nômade|Caminhar e Parar com Francesco Careri uma Pedagogia Nômade]]**. HTTPS://DOI.ORG/10.15210/PIXO.V5I16.19010, v. 5, p. 204-207, 2021.
 
-[FIORIN, E.](http://lattes.cnpq.br/5599203800231511). **Nômades: as práticas errantes no ensino, na pesquisa e na extensão em arquitetura e urbanismo ? por um (re)conhecimento urbano**. Risco: Revista de Pesquisa em Arquitetura e Urbanismo (on line), v. 20, p. 203-222, 2022.
-  
-[FIORIN, EVANDRO](http://lattes.cnpq.br/5599203800231511). **Florianópolis: debaixo da ponte, em cima do morro e no muro da rua: entre grafites e lugares à margem | Florianópolis: under the bridge, over the hill and on the wall: among graffiti and marginal places**. OCULUM ENSAIOS, v. 18, p. 1-20, 2021.
+SOUZA, LUCAS DO NASCIMENTO ; FIORIN, EVANDRO ; RODRIGUES, LAÍS DA SILVA . **[[notes/Produções/Walking as an intervention|Walking as an intervention]]**. REVISTA NACIONAL DE GERENCIAMENTO DE CIDADES, v. 9, p. 1-13, 2021.
 
-[FIORIN, E.](http://lattes.cnpq.br/5599203800231511); [VASCONCELOS, H. M. T.](http://lattes.cnpq.br/1290805936456727) . Caminhar e Parar com Francesco Careri: uma Pedagogia Nômade. HTTPS://DOI.ORG/10.15210/PIXO.V5I16.19010, v. 5, p. 204-207, 2021.
-
-SOUZA, LUCAS DO NASCIMENTO ; FIORIN, EVANDRO ; RODRIGUES, LAÍS DA SILVA . **Walking as an intervention**. REVISTA NACIONAL DE GERENCIAMENTO DE CIDADES, v. 9, p. 1-13, 2021.
-
-[VASCONCELOS, H. M. T.](http://lattes.cnpq.br/1290805936456727) ; FIORIN, E. . **Arquitetura, urbanismo e história do bairro Jaraguá, Maceió/AL.** Research, Society and Development, v. 09, p. 01-16, 2020.
+[VASCONCELOS, H. M. T.](http://lattes.cnpq.br/1290805936456727) ; FIORIN, E. . **[[notes/Produções/Arquitetura, urbanismo e história do bairro Jaraguá, Maceió|Arquitetura, urbanismo e história do bairro Jaraguá, Maceió/AL]]**. Research, Society and Development, v. 09, p. 01-16, 2020.
  
-[VASCONCELOS, H. M. T.](http://lattes.cnpq.br/1290805936456727) ; FIORIN, E. . **A Alquimista: um ensaio metodológico**. CINCO PORCENTO ARQUITECTURA MAIS ARTE, v. 1, p. 1-19, 2020.
+[VASCONCELOS, H. M. T.](http://lattes.cnpq.br/1290805936456727) ; FIORIN, E. . **[[notes/Produções/A Alquimista um ensaio metodológico|A Alquimista: um ensaio metodológico]]**. CINCO PORCENTO ARQUITECTURA MAIS ARTE, v. 1, p. 1-19, 2020.
 
-SOUZA, LUCAS DO NASCIMENTO ; FIORIN, EVANDRO ; SALCEDO, ROSIO FERNANDEZ BACA . **Transformação da paisagem da Vila Antarctica em Bauru-SP: reflexões sobre a preservação do patrimônio industrial**. REVISTA NACIONAL DE GERENCIAMENTO DE CIDADES, v. 8, p. 118-133, 2020.
+SOUZA, LUCAS DO NASCIMENTO ; FIORIN, EVANDRO ; SALCEDO, ROSIO FERNANDEZ BACA . **[[notes/Produções/Transformação da paisagem da Vila Antarctica em Bauru-SP reflexões sobre a preservação do patrimônio industrial|Transformação da paisagem da Vila Antarctica em Bauru-SP: reflexões sobre a preservação do patrimônio industrial]]**. REVISTA NACIONAL DE GERENCIAMENTO DE CIDADES, v. 8, p. 118-133, 2020.
 
-RODRIGUES, LAÍS DA SILVA ; FIORIN, EVANDRO ; SOUZA, LUCAS DO NASCIMENTO . **Araraquara: história e patrimônio ferroviário e industrial**. REVISTA NACIONAL DE GERENCIAMENTO DE CIDADES, v. 8, p. 134-149, 2020.
+RODRIGUES, LAÍS DA SILVA ; FIORIN, EVANDRO ; SOUZA, LUCAS DO NASCIMENTO .**[[notes/Produções/Araraquara história e patrimônio ferroviário e industrial|Araraquara: história e patrimônio ferroviário e industrial]]**. REVISTA NACIONAL DE GERENCIAMENTO DE CIDADES, v. 8, p. 134-149, 2020.
 
-SANTOS, M. M. ; FIORIN, E. ; RODRIGUES, L. S. . **Ourinhos: história e patrimônio ferroviário e industrial**. REVISTA NACIONAL DE GERENCIAMENTO DE CIDADES, v. 8, p. 48-57, 2020.
+SANTOS, M. M. ; FIORIN, E. ; RODRIGUES, L. S. .**[[notes/Produções/Ourinhos história e patrimônio ferroviário e industrial|Ourinhos: história e patrimônio ferroviário e industrial]]**. REVISTA NACIONAL DE GERENCIAMENTO DE CIDADES, v. 8, p. 48-57, 2020.
 
-[FIORIN, E.](http://lattes.cnpq.br/5599203800231511); DIAS, G. C. G. . **Caminhografias no Minhocão em São Paulo.** CINCO PORCENTO ARQUITECTURA MAIS ARTE, v. 1, p. 1, 2020.
+[FIORIN, E.](http://lattes.cnpq.br/5599203800231511); DIAS, G. C. G. . **[[notes/Produções/Caminhografias no Minhocão em São Paulo|Caminhografias no Minhocão em São Paulo]]**. CINCO PORCENTO ARQUITECTURA MAIS ARTE, v. 1, p. 1, 2020.
 
 ### Livros publicados
 
-[FIORIN, E.](http://lattes.cnpq.br/5599203800231511); FREITAS, D. ; DIAS, G. C. G. ; [VASCONCELOS, H. M. T.](http://lattes.cnpq.br/1290805936456727) ; [LOUZICH, K. M. D.](http://lattes.cnpq.br/1928482851339357) ; RODRIGUES, L. S. ; SOUZA, L. N. ; CHAPARIM, M. A. S. ; POLLI, P. G. . **A Cidade Inacabada**. 1. ed. Tupã / Florianópolis: ANAP / Arquitetura & Urbanismo UFSC Publicações, 2021. v. 1. 194p .
+[FIORIN, E.](http://lattes.cnpq.br/5599203800231511); FREITAS, D. ; DIAS, G. C. G. ; [VASCONCELOS, H. M. T.](http://lattes.cnpq.br/1290805936456727) ; [LOUZICH, K. M. D.](http://lattes.cnpq.br/1928482851339357) ; RODRIGUES, L. S. ; SOUZA, L. N. ; CHAPARIM, M. A. S. ; POLLI, P. G. . **[[notes/Produções/Projetos de Pesquisa/A Cidade Inacabada|A Cidade Inacabada]]**. 1. ed. Tupã / Florianópolis: ANAP / Arquitetura & Urbanismo UFSC Publicações, 2021. v. 1. 194p .
 
-[FIORIN, E.](http://lattes.cnpq.br/5599203800231511). **Caminhar como estrangeiro em terras de descobrimento: Processos de percepção da arquitetura e urbanismo contemporâneos**. 1. ed. Tupã-São Paulo: ANAP, 2020. v. 1.
-
-[FIORIN, E.](http://lattes.cnpq.br/5599203800231511); [HIRAO, H.](http://lattes.cnpq.br/5599203800231511) (Org.) . **Cartografias da Cidade**. 1. ed. Tupã-São Paulo: Anap, 2019. v. 1. 158p .
+[FIORIN, E.](http://lattes.cnpq.br/5599203800231511). [[notes/Produções/Caminhar como estrangeiro em terras de descobrimento Processos de percepção da arquitetura e urbanismo contemporâneos|Caminhar como estrangeiro em terras de descobrimento: Processos de percepção da arquitetura e urbanismo contemporâneos]]. 1. ed. Tupã-São Paulo: ANAP, 2020. v. 1.
 
 ### Capítulos de livro
 
-[FIORIN, E.](http://lattes.cnpq.br/5599203800231511); MARCH, I. A. . **Transurbanogramas: caminhar e cartografar na capital catarinense**. In: NUNES, L. A.; SCHWARTZ, R. M. P. B. (org).. (Org.). Entre Territórios e Redes: arte, memórias, cidades.. 1ed.São Paulo: Manuscrito, 2022, v. 1, p. 108-123.
+[FIORIN, E.](http://lattes.cnpq.br/5599203800231511); MARCH, I. A. . **[[notes/Produções/Transurbanogramas caminhar e cartografar na capital catarinense|Transurbanogramas: caminhar e cartografar na capital catarinense]]**. In: NUNES, L. A.; SCHWARTZ, R. M. P. B. (org).. (Org.). Entre Territórios e Redes: arte, memórias, cidades.. 1ed.São Paulo: Manuscrito, 2022, v. 1, p. 108-123.
 
-[FIORIN, E.](http://lattes.cnpq.br/5599203800231511); SANTOS, M. M. **Patrimônio Ferroviário e Industrial de Ourinhos (SP): história e preservação**. In: Jefferson Oliveira Goulart; Norma Regina Truppel Constantino (orgs). (Org.). Pesquisa em Arquitetura e Urbanismo ? as cidades e seus desafios [vol. 6]. 1ed.Tupã-SP: ANAP, 2021, v. 1, p. 1-.
+[FIORIN, E.](http://lattes.cnpq.br/5599203800231511); SANTOS, M. M. **[[notes/Produções/Patrimônio Ferroviário e Industrial de Ourinhos (SP) história e preservação|Patrimônio Ferroviário e Industrial de Ourinhos (SP): história e preservação]]**. In: Jefferson Oliveira Goulart; Norma Regina Truppel Constantino (orgs). (Org.). Pesquisa em Arquitetura e Urbanismo ? as cidades e seus desafios [vol. 6]. 1ed.Tupã-SP: ANAP, 2021, v. 1, p. 1-.
 
-RODRIGUES, L. S. ; FIORIN, E. **Patrimônio ferroviário e industrial e a paisagem urbana de Araraquara-SP**. In: Rosio Fernández Baca Salcedo; João Roberto Gomes de Faria (orgs). (Org.). Pesquisa em Arquitetura e Urbanismo: do contexto urbano ao edifício. 1ed.Tupã-São Paulo: ANAP, 2020, v. , p. 85-104.
+RODRIGUES, L. S. ; FIORIN, E. **[[notes/Produções/Patrimônio ferroviário e industrial e a paisagem urbana de Araraquara-SP|Patrimônio ferroviário e industrial e a paisagem urbana de Araraquara-SP]]**. In: Rosio Fernández Baca Salcedo; João Roberto Gomes de Faria (orgs). (Org.). Pesquisa em Arquitetura e Urbanismo: do contexto urbano ao edifício. 1ed.Tupã-São Paulo: ANAP, 2020, v. , p. 85-104.
 
-Louzich, Kellen Melo Dorileo ; FIORIN, EVANDRO . **PERMANÊNCIAS E TRANSFORMAÇÕES DO CENTRO HISTÓRICO DE CUIABÁ: UMA CONSTRUÇÃO HISTORIOGRÁFICA**. In: Frederico C. Barbosa. (Org.). Permanências e Transformações do Centro Histórico de Cuiabá: uma construção historiográfica. 1ed.Goias: Conhecimento Livre, 2020, v. II, p. 94-114.
+Louzich, Kellen Melo Dorileo ; FIORIN, EVANDRO . **[[notes/Produções/Permanências e transformações do centro histórico de Cuiabá uma construção historiográfica|Permanências e transformações do centro histórico de Cuiabá: uma construção historiográfica]]**. In: Frederico C. Barbosa. (Org.). Permanências e Transformações do Centro Histórico de Cuiabá: uma construção historiográfica. 1ed.Goias: Conhecimento Livre, 2020, v. II, p. 94-114.
 
-[FIORIN, E.](http://lattes.cnpq.br/5599203800231511); [HIRAO, H.](http://lattes.cnpq.br/5599203800231511) . **Cartografias da Cidade e a Prática Pedagógica Projetual**. In: FIORIN, E.; HIRAO, H.. (Org.). Cartografias da Cidade. 1ed.Tupã-São Paulo: Anap, 2019, v. 1, p. 94-111.
+[FIORIN, E.](http://lattes.cnpq.br/5599203800231511); SOUZA, L. N. **[[notes/Produções/Patrimônio, Marginalidade e Gentrificação ao longo do antigo leito férreo de Bauru-SP|Patrimônio, Marginalidade e Gentrificação ao longo do antigo leito férreo de Bauru-SP: A Vila Antártica]]**. In: MAGAGNIN, R. C.; CONSTANTINO, N. R. T; BENINI, S. M. (org).. (Org.). Cidade, História e Patrimônio. 1ed.Tupã-São Paulo: ANAP, 2019, v. 1, p. 189-202.
 
-[FIORIN, E.](http://lattes.cnpq.br/5599203800231511); ARTUSO, J. . **Experiências de Reconhecimento Urbano em São Paulo: Transurbanogramas do Minhocão**. In: FIORIN, E.; HIRAO, H.. (Org.). Cartografias da Cidade. 1ed.Tupã-São Paulo: Anap, 2019, v. 1, p. 134-154.
+[FIORIN, E.](http://lattes.cnpq.br/5599203800231511); [HIRAO, H.](http://lattes.cnpq.br/5599203800231511) . [[notes/Livros/Cartografias da Cidade|Cartografias da Cidade e a Prática Pedagógica Projetual]]. In: FIORIN, E.; HIRAO, H.. (Org.). Cartografias da Cidade. 1ed.Tupã-São Paulo: Anap, 2019, v. 1, p. 94-111.
+
+[FIORIN, E.](http://lattes.cnpq.br/5599203800231511); ARTUSO, J. . **[[notes/Produções/Experiências de Reconhecimento Urbano em São Paulo Transurbanogramas do Minhocão|Experiências de Reconhecimento Urbano em São Paulo: Transurbanogramas do Minhocão]]**. In: FIORIN, E.; HIRAO, H.. (Org.). Cartografias da Cidade. 1ed.Tupã-São Paulo: Anap, 2019, v. 1, p. 134-154.
 
 ### Trabalhos completos publicados em anais de congresso
+
+NORA, L. R.; FIORIN, E. . [[notes/Produções/Arquiteturas Abandonadas em Santa Catarina uma cartografia das janelas|Arquiteturas Abandonadas em Santa Catarina uma cartografia das janelas]]. In: VI Simpósio Brasileiro Online de Gestão Urbana (SiBOGU), 2022. VI Simpósio Brasileiro Online de Gestão Urbana (SiBOGU), 2022. v. 1. p. 73-84.]<In: VI SiBOGU - Simpósio Brasileiro Online de Gestão Urbana, 2022, Online. Memória, patrimônio e paisagem. Tupã: ANAP, 2022. v. 6. p. 73-84.
+
+[KRAHL, R. M. Z.](http://lattes.cnpq.br/2200330037247256); FIORIN, E. . [[notes/Produções/Arquiteturas de madeira uma cartografia de Lages-SC|Arquiteturas de madeira uma cartografia de Lages-SC]]. In: VI SiBOGU - Simpósio Brasileiro Online de Gestão Urbana, 2022. Anais do VI SiBOGU - Simpósio Brasileiro Online de Gestão Urbana, 2022. Online. Memória, patrimônio e paisagem. Tupã: ANAP, 2022. v. 6. p. 224-235.
+
+FIORIN, E ; FREITAS, D. [[notes/Produções/Ruína, Resistência e Resiliência uma cartografia da Costa da Lagoa da Conceição em Florianópolis - SC|Ruína, Resistência e Resiliência uma cartografia da Costa da Lagoa da Conceição em Florianópolis - SC]]. In: VI SiBOGU - Simpósio Brasileiro Online de Gestão Urbana, 2022, Online. Memória, patrimônio e paisagem. Tupã: ANAP, 2022. v. 6 p. 236-247.
+
+ **[ROMÃO, K. M.](http://lattes.cnpq.br/9200565420988518)**; [FIORIN, E.](http://lattes.cnpq.br/5599203800231511) . [[notes/Produções/Patrimônio Ferroviário da estação Samaritá em São Vicente - SP|Patrimônio Ferroviário da estação Samaritá em São Vicente - SP]]. In: VI SiBOGU - Simpósio Brasileiro Online de Gestão Urbana, 2022, Online. Memória, patrimônio e paisagem. Tupã: ANAP, 2022. v. 6. p. 248-261.
+
+ **[FRASCARELI, M. B.](http://lattes.cnpq.br/9344662967503617)**; [FIORIN, E.](http://lattes.cnpq.br/5599203800231511 "Clique para visualizar o currículo") . [[notes/Produções/O caminhar como modalidade de pesquisa três percursos de Francesco Careri em São Paulo - SP|O caminhar como modalidade de pesquisa três percursos de Francesco Careri em São Paulo - SP]]. In: VI SIBOGU - Simpósio Brasileiro Online de Gestão Urbana, 2022, On-line. Projetos, intervenções e requalificações na cidade contemporânea. Tupã-SP: ANAP, 2022.
 
 SANTOS, M. M. ; FIORIN, E. ; RODRIGUES, L. S. . Ourinhos: história e patrimônio ferroviário e industrial. In: XVI Fórum Ambiental da AltaPaulista, 2020, Tupã-São Paulo. ANAIS XVI Fórum Ambiental da Alta Paulista. Tupã: Anap, 2020. v. 1. p. 1292-1301.
 

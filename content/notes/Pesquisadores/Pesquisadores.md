@@ -1,5 +1,5 @@
 ---
-title: "Grupo P4"
+title: "Pesquisadores"
 tags: 
 - pesquisadores
 ---
@@ -13,7 +13,7 @@ tags:
 - [[notes/Pesquisadores/Evandro Fiorin|Evandro Fiorin]] - Professor Doutor UFSC
 
 ### Pesquisador externo ao Grupo P4
-- Hélio Hirao - Professor Doutor UNESP
+- [[notes/Pesquisadores/Hélio Hirao|Hélio Hirao]] - Professor Doutor UNESP
 
 #### Projetos em andamento
 - [[notes/Produções/Projetos de Pesquisa/Terras Baldias projeto inconcluso para uma cidade inacabada|Terras Baldias: projeto inconcluso para uma cidade inacabada]]

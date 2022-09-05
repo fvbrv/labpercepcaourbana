@@ -2,7 +2,7 @@
 title: "Revista Risco"
 tag:
 - periodicos
-- risco
+- revistarisco
 - 2022
 ---
 
@@ -17,3 +17,4 @@ A revista visa ampliar o debate teórico, histórico e crítico em arquitetura 
 
 ## Trabalhos
 - [[notes/Produções/Nômades as práticas errantes no ensino, na pesquisa e na extensão em arquitetura e urbanismo por um (re)conhecimento urbano|Nômades as práticas errantes no ensino, na pesquisa e na extensão em arquitetura e urbanismo por um (re)conhecimento urbano]]
+- 

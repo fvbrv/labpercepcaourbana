@@ -22,12 +22,10 @@ Especialista em Ferramentas de Gestão e Projetos BIM (IPOG Florianópolis-SC) |
 [rafaelkrahl@gmail.com](mailto:rafaelkrahl@gmail.com)
 
 ## Trabalhos
-- [[notes/Produções/Arquiteturas de madeira uma cartografia de Lages-SC|Arquiteturas de madeira uma cartografia de Lages-SC]]
-- [[notes/Produções/Projetos de Pesquisa/Terras Baldias projeto inconcluso para uma cidade inacabada|Terras Baldias: projeto inconcluso para uma cidade inacabada]]
 
 ### Trabalhos completos publicados em anais de congresso
 
-KRAHL, R. M. Z.](http://lattes.cnpq.br/2200330037247256); FIORIN, E. . ARQUITETURAS DE MADEIRA: UMA CARTOGRAFIA DE LAGES-SC. In: VI SiBOGU - Simpósio Brasileiro Online de Gestão Urbana, 2022. Anais do VI SiBOGU - Simpósio Brasileiro Online de Gestão Urbana, 2022. Online. Memória, patrimônio e paisagem. Tupã: ANAP, 2022. v. 6. p. 224-235.
+[KRAHL, R. M. Z.](http://lattes.cnpq.br/2200330037247256); FIORIN, E. . [[notes/Produções/Arquiteturas de madeira uma cartografia de Lages-SC|Arquiteturas de madeira uma cartografia de Lages-SC]]. In: VI SiBOGU - Simpósio Brasileiro Online de Gestão Urbana, 2022. Anais do VI SiBOGU - Simpósio Brasileiro Online de Gestão Urbana, 2022. Online. Memória, patrimônio e paisagem. Tupã: ANAP, 2022. v. 6. p. 224-235.
 
 ### Mestrado em andamento
 

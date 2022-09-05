@@ -21,9 +21,10 @@ Graduando em Arquitetura e Urbanismo/ Universidade Federal de Santa Catarina - U
 [arthurfracaro@hotmail.com](mailto:arthurfracaro@hotmail.com)
 
 ## Trabalhos
-- [[notes/Produções/Projetos de Pesquisa/TransUrbanoGramas Trajetos, Territórios e suas Traduções experiências de reconhecimento urbano|TransUrbanoGramas]]: experiências de reconhecimento urbano no centro expandido de Florianópolis. 
-- [[notes/Produções/Projetos de Pesquisa/A Cidade Inacabada|A Cidade Inacabada]]
-- [[notes/Produções/Projetos de Pesquisa/Terras Baldias projeto inconcluso para uma cidade inacabada|Terras Baldias: projeto inconcluso para uma cidade inacabada]]
+
+### Livros publicados
+
+[FIORIN, E.](http://lattes.cnpq.br/5599203800231511); FREITAS, D. ; DIAS, G. C. G. ; [VASCONCELOS, H. M. T.](http://lattes.cnpq.br/1290805936456727) ; [LOUZICH, K. M. D.](http://lattes.cnpq.br/1928482851339357) ; RODRIGUES, L. S. ; SOUZA, L. N. ; CHAPARIM, M. A. S. ; POLLI, P. G. . [[notes/Produções/Projetos de Pesquisa/A Cidade Inacabada|A Cidade Inacabada]]. 1. ed. Tupã / Florianópolis: ANAP / Arquitetura & Urbanismo UFSC Publicações, 2021. v. 1. 194p .
 
 ### Iniciação científica
 

@@ -5,6 +5,8 @@ tags:
 - ebook
 ---
 
+![[notes/Livros/Pasted image 20220904164751.png]]
+
 ## Apresentação
 
 Este e-book é resultado de um esforço conjunto dos integrantes do Laboratório de Percepção Urbana, vinculado ao Grupo de Pesquisa de Projeto, Patrimônio, Percepção e Paisagem da Universidade Federal de Santa Catarina, para fazer-ver algumas mudanças acontecidas no panorama atual das conformações urbanas contemporâneas, principalmen-
@@ -26,7 +28,9 @@ melho, comumente revelará uma cidade inacabada: cheia de discrepâncias, desati
 
 **Prof. Dr. Evandro Fiorin**
 
-## Integrantes
+## Ficha Técnica
+
+**Autores:**
 - [[notes/Pesquisadores/Evandro Fiorin|Evandro Fiorin]] - Coordernador
 - [[notes/Pesquisadores/Djonathan Freitas|Djonathan Freitas]]
 - [[notes/Pesquisadores/Guilherme do Carmo Gomes Dias| Guilherme do Carmo Gomes Dias]]
@@ -38,5 +42,12 @@ melho, comumente revelará uma cidade inacabada: cheia de discrepâncias, desati
 - [[notes/Pesquisadores/Matheus Alcântara Silva Chaparim|Matheus Alcântara Silva Chaparim]]
 - [[notes/Pesquisadores/Paula Gabbi Polli|Paula Gabbi Polli]]
 
-## Ano
-- [[notes/Ano/2021|2021]]
+**Ano:** [[notes/Ano/2021|2021]]
+
+**1ª Edição**
+
+**Nº Páginas: 194**
+
+**Ref: ISBN 978-65-86753-51-6**
+
+[Download](https://www.estantedaanap.org/product-page/a-cidade-inacabada)

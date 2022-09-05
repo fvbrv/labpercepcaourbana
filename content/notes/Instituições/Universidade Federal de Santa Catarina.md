@@ -9,16 +9,32 @@ tag:
 - [[notes/Pesquisadores/Evandro Fiorin|Evandro Fiorin]]
 
 ## Trabalhos
-- [[notes/Produções/Projetos de Pesquisa/TransUrbanoGramas Trajetos, Territórios e suas Traduções experiências de reconhecimento urbano| TransUrbanoGramas]]
-- [[notes/Produções/Projetos de Pesquisa/A Cidade Inacabada|ebook Cidade Inacabada]]
+
+### Projetos de pesquisa
+- [[notes/Produções/Projetos de Pesquisa/Terras Baldias projeto inconcluso para uma cidade inacabada|Terras Baldias projeto inconcluso para uma cidade inacabada]]
+- [[notes/Produções/Projetos de Pesquisa/TransUrbanoGramas Trajetos, Territórios e suas Traduções experiências de reconhecimento urbano|TransUrbanoGramas Trajetos, Territórios e suas Traduções experiências de reconhecimento urbano]]
+
+### Livros publicados
+- [[notes/Produções/Projetos de Pesquisa/A Cidade Inacabada|A Cidade Inacabada]]
+
+### Capítulos de livros publicados 
+- [[notes/Produções/Transurbanogramas caminhar e cartografar na capital catarinense|Transurbanogramas: caminhar e cartografar na capital catarinense]]
+- [[notes/Produções/Permanências e transformações do centro histórico de Cuiabá uma construção historiográfica|Permanências e transformações do centro histórico de Cuiabá uma construção historiográfica]]
+- [[notes/Produções/Experiências de Reconhecimento Urbano em São Paulo Transurbanogramas do Minhocão|Experiências de Reconhecimento Urbano em São Paulo Transurbanogramas do Minhocão]]
+
+### Artigos completos publicados em periódicos
+- [[notes/Produções/Caminhar e Parar com Francesco Careri uma Pedagogia Nômade|Caminhar e parar com Francesco Careri: uma pedagogia nômade]]
+- [[notes/Produções/Arquitetura, urbanismo e história do bairro Jaraguá, Maceió|Arquitetura, urbanismo e história do bairro Jaraguá, Maceió/AL]]
+- [[notes/Produções/A Alquimista um ensaio metodológico|A Alquimista: um ensaio metodológico]]
+
+### Trabalhos completos publicados em anais de congresso
 - [[notes/Produções/Arquiteturas Abandonadas em Santa Catarina uma cartografia das janelas|Arquiteturas Abandonadas em Santa Catarina Uma cartografia das janelas]]
 - [[notes/Produções/Arquiteturas de madeira uma cartografia de Lages-SC|Arquiteturas de madeira uma cartografia de Lages-SC]]
 - [[notes/Produções/Ruína, Resistência e Resiliência uma cartografia da Costa da Lagoa da Conceição em Florianópolis - SC|Ruína, Resistência e Resiliência uma cartografia da Costa da Lagoa da Conceição em Florianópolis - SC]]
 - [[notes/Produções/Patrimônio Ferroviário da estação Samaritá em São Vicente - SP|Patrimônio Ferroviário da estação Samaritá em São Vicente - SP]]
-- [[notes/Produções/Permanências e transformações do Centro Histórico de Cuiabá|Permanências e transformações do Centro Histórico de Cuiabá]]
 - [[notes/Produções/Arquitetura Cuiabana permanências e transformações no centro histórico da cidade|Arquitetura Cuiabana permanências e transformações no centro histórico da cidade]]
 - [[notes/Produções/O Rio de Janeiro pela experiência de Frederico Morais|O Rio de Janeiro pela experiência de Frederico Morais]]
-- [[notes/Produções/Patrimônio arquitetônico e urbano do bairro Jaraguá|Patrimônio arquitetônico e urbano do bairro Jaraguá - AL]]
+
 
 ## Pesquisadores
 - [[notes/Pesquisadores/Amarildo Marcos Soares Junior|Amarildo Marcos Soares Junior]]

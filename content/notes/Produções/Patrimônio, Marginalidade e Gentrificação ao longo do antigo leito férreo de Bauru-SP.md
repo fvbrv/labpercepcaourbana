@@ -1,5 +1,5 @@
 ---
-title: "Patrimônio, Marginalidade e Gentrificação ao longo do antigo leito férreo de Bauru-SP"
+title: "Patrimônio, Marginalidade e Gentrificação ao longo do antigo leito férreo de Bauru-SP: A Vila Antártica"
 tag:
 - interiorsp
 - bauru
@@ -9,9 +9,12 @@ tag:
 ## Resumo
 -
 
-## Pesquisador
+## Ficha Técnica
+
+**Autores:**
 - [[notes/Pesquisadores/Lucas do Nascimento Souza|Lucas do Nascimento Souza]]
 - [[notes/Pesquisadores/Evandro Fiorin|Evandro Fiorin]]
 
-### Ano
-- [[notes/Ano/2020|2020]]
+**Ano:** [[notes/Ano/2020|2020]]
+
+[Texto completo]

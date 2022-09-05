@@ -2,7 +2,6 @@
 title: "Clara Troncoso Mello"
 tags: 
 - pesquisadores
-- ?
 - egresso
 ---
 
@@ -10,13 +9,13 @@ tags:
 Clara Troncoso Mello
 
 ## Formação
--
+null
 
 ## Lattes
 http://lattes.cnpq.br/0094005079812348
 
 ## Email e Contato
--
+null
 
 ## Trabalhos
-- [[notes/Produções/Projetos de Pesquisa/Terras Baldias projeto inconcluso para uma cidade inacabada|Terras Baldias: projeto inconcluso para uma cidade inacabada]]
+null
