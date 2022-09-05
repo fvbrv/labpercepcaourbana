@@ -7,6 +7,7 @@ tag:
 ---
 
 ## Resumo
+
 null
 
 ## Ficha Técnica

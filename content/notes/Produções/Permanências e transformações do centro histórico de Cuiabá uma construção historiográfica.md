@@ -2,6 +2,7 @@
 title: "Permanências e transformações do centro histórico de Cuiabá uma construção historiográfica"
 tags:
 - 2020
+- matogrosso
 ---
 
 ## Resumo

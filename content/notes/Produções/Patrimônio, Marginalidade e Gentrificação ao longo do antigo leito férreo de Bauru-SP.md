@@ -7,7 +7,8 @@ tag:
 - 2020
 ---
 ## Resumo
--
+
+null
 
 ## Ficha Técnica
 
