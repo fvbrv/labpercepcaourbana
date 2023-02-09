@@ -3,7 +3,9 @@ title: "Kellen Melo Dorileo Louzich"
 tags: 
 - pesquisadores
 - matogrosso
-- egresso
+- santacatarina
+- doutorado
+- ativo
 ---
 
 ## Nome
@@ -19,6 +21,9 @@ http://lattes.cnpq.br/1928482851339357
 [kellendorileo@gmail.com](mailto:kellendorileo@gmail.com)
 
 ## Trabalhos
+
+### Doutorado em andamento
+Kellen Melo Dorileo Louzich. Do Mar à Cidade: a deriva como um processo de cognição do território.  Início: 2023. Tese (Doutorado em Arquitetura e Urbanismo) - Universidade Federal de Santa Catarina.
 
 ### Capítulo de livro publicado
 

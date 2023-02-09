@@ -41,3 +41,4 @@ tag:
 - [[notes/Pesquisadores/Mariana Mamedes dos Santos|Mariana Mamedes dos Santos]]
 - [[notes/Pesquisadores/Marina Biazotto Frascareli|Marina Biazotto Frascareli]]
 - [[notes/Pesquisadores/Lucas do Nascimento Souza|Lucas do Nascimento Souza]]
+- [[notes/Pesquisadores/Vitor Giulianetti Barros|Vitor Giulianetti Barros]]
